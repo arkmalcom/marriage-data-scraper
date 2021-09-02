@@ -175,12 +175,15 @@ def get_occupation(bio):
                 we manually assign their occupation if we find that they're in office.'''
                 if item == '':
                     occupation_list.remove(item)
-                if ("Musician" in item) | ("Singer" in item) | ("Rapper" in item) in item:
+                elif ("Musician" in item) or ("Singer" in item) or ("Rapper" in item):
                     main_occupation = "Musician"
+                    break
                 elif "Actress" in item:
                     main_occupation = "Actress"
+                    break
                 elif "Actor" in item:
                     main_occupation = "Actor"
+                    break
                 else:
                     main_occupation = item.strip()
         else:

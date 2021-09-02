@@ -9,41 +9,41 @@ Tom Cotton,Politician,1,Anna Peckham,7,True,Unknown
 Dianne Feinstein,Politician,1,Jack Berman,3,False,Unknown
 Dianne Feinstein,Politician,2,Bertram Feinstein,16,False,Unknown
 Dianne Feinstein,Politician,3,Richard C. Blum,41,True,Unknown
-Alex Padilla,Unknown,1,Angela Monzon,9,True,Unknown
+Alex Padilla,Politician Engineer,1,Angela Monzon,9,True,Unknown
 Michael Bennet,Politician,1,Susan Daggett,24,True,Unknown
-John Hickenlooper,Politician,1,Helen Thorpe,13,False,Unknown
+John Hickenlooper,Politician,1,Helen Thorpe,13,False,First Lady Of Colorado
 John Hickenlooper,Politician,2,Robin Pringle,5,True,Politician
 Richard Blumenthal,Politician,1,Cynthia Malkin,39,True,Unknown
 Tom Carper,Politician,1,Diane Isaacs,5,False,Unknown
 Tom Carper,Politician,2,Martha Stacy,36,True,Unknown
 Chris Coons,Politician,1,Annie Lingenfelter,25,True,Unknown
 Marco Rubio,Politician,1,Jeanette Dousdebes,23,True,Unknown
-Rick Scott,Unknown,1,Ann Holland,49,True,Unknown
+Rick Scott,Politician,1,Ann Holland,49,True,Politician
 Jon Ossoff,Politician,1,Alisha Kramer,4,True,Politician
 Raphael Warnock,Politician,1,Oulèye Ndoye,4,False,Unknown
 Mazie Hirono,Politician,1,Leighton Kim Oshima,34,True,Unknown
 Mike Crapo,Politician,1,Susan Hasleton,47,True,Unknown
 Jim Risch,Politician,1,Vicki Risch,53,True,Politician
 Tammy Duckworth,Politician,1,Bryan Bowlsbey,28,True,Politician
-Dick Durbin,Unknown,1,Loretta Schaefer,54,True,Unknown
+Dick Durbin,Politician Lawyer,1,Loretta Schaefer,54,True,Unknown
 Mike Braun,Politician,1,Maureen Braun,45,True,Unknown
 Todd Young,Politician,1,Jennifer Tucker,16,True,Unknown
 Joni Ernst,Politician,1,Gail Ernst,27,False,Unknown
 Chuck Grassley,Politician,1,Barbara Speicher,67,True,Unknown
 Jerry Moran,Politician,1,Robba Addison,37,True,Unknown
 Mitch McConnell,Politician,1,Sherrill Redmon,12,False,Unknown
-Mitch McConnell,Politician,2,Elaine Chao,28,True,Unknown
+Mitch McConnell,Politician,2,Elaine Chao,28,True,Businesswoman Politician
 Rand Paul,Politician,1,Kelley Ashby,31,True,Unknown
 Bill Cassidy,Politician,1,Laura Layden,32,True,Unknown
 Susan Collins,Politician,1,Thomas Daffron,9,True,Unknown
 Ben Cardin,Politician,1,Myrna Edelman,57,True,Unknown
 Chris Van Hollen,Politician,1,Katherine Wilkens,34,True,Unknown
 Edward Markey,Politician,1,Susan Blumenthal,33,True,Politician
-Elizabeth Warren,Unknown,1,Jim Warren,10,False,Unknown
-Elizabeth Warren,Unknown,2,Bruce H. Mann,41,True,Unknown
+Elizabeth Warren,Politician Law Professor Author,1,Jim Warren,10,False,Unknown
+Elizabeth Warren,Politician Law Professor Author,2,Bruce H. Mann,41,True,Unknown
 Debbie Stabenow,Politician,1,Dennis Stabenow,18,False,Unknown
 Debbie Stabenow,Politician,2,Tom Athans,7,False,Unknown
-Amy Klobuchar,Unknown,1,John Bessler,28,True,Unknown
+Amy Klobuchar,Lawyer Politician,1,John Bessler,28,True,Associate Professor Of Law At University Of Baltimore School Of Law
 Tina Smith,Politician,1,Archie Smith,37,True,Unknown
 Cindy Hyde-Smith,Politician,1,Michael Smith,25,True,Unknown
 Roger Wicker,Politician,1,Gayle Long,46,True,Unknown
@@ -52,18 +52,18 @@ Roy Blunt,Politician,2,Abigail Perlman,18,True,Unknown
 Josh Hawley,Politician,1,Erin Morrow,11,True,Unknown
 Steve Daines,Politician,1,Cindy Daines,35,True,Unknown
 Jon Tester,Politician,1,Sharla Bitz,43,True,Unknown
-Deb Fischer,Unknown,1,Bruce Fischer,49,True,Unknown
+Deb Fischer,Rancher,1,Bruce Fischer,49,True,Unknown
 Ben Sasse,Politician,1,Melissa McLeod,26,True,Unknown
 Jeanne Shaheen,Politician,1,Bill Shaheen,49,True,Unknown
 Bob Menendez,Politician,1,Jane Jacobsen,29,False,Unknown
 Bob Menendez,Politician,2,Nadine Arslanian,1,True,Unknown
 Martin Heinrich,Politician,1,Julie Hicks,23,True,Unknown
 Kirsten Gillibrand,Politician,1,Jonathan Gillibrand,20,True,Unknown
-Chuck Schumer,Politician,1,Iris Weinshall,41,True,Unknown
+Chuck Schumer,Politician,1,Iris Weinshall,41,True,Chief Operating Officer At The New York Public Library
 Richard Burr,Politician,1,Brooke Fauth,37,True,Unknown
 Kevin Cramer,Politician,1,Kris Cramer,35,True,Unknown
-Sherrod Brown,Unknown,1,Larke Ummel,8,False,Unknown
-Sherrod Brown,Unknown,2,Connie Schultz,17,True,Unknown
+Sherrod Brown,Politician Teacher,1,Larke Ummel,8,False,Unknown
+Sherrod Brown,Politician Teacher,2,Connie Schultz,17,True,Unknown
 Rob Portman,Politician,1,Jane Dudley,35,True,Unknown
 Jim Inhofe,Politician,1,Kay Kirkpatrick,62,True,Politician
 James Lankford,Politician,1,Cindy Hennessey,29,True,Unknown
@@ -77,14 +77,14 @@ John Thune,Politician,1,Kimberley Weems,37,True,Unknown
 Marsha Blackburn,Politician,1,Chuck Blackburn,46,True,Unknown
 Bill Hagerty,Politician,1,Chrissy Hagerty,20,True,Unknown
 John Cornyn,Politician,1,Sandy Hansen,42,True,Unknown
-Ted Cruz,Unknown,1,Heidi Nelson,20,True,Unknown
-Mitt Romney,Unknown,1,Ann Davies,52,True,Unknown
+Ted Cruz,Politician Broadcaster Lawyer,1,Heidi Nelson,20,True,Unknown
+Mitt Romney,Politician Businessman,1,Ann Davies,52,True,Unknown
 Patrick Leahy,Politician,1,Marcelle Pomerleau,59,True,Unknown
-Bernie Sanders,Unknown,1,Deborah Shiling,2,False,Unknown
-Bernie Sanders,Unknown,2,Jane O'Meara,33,True,Politician
+Bernie Sanders,Politician Activist Author,1,Deborah Shiling,2,False,Unknown
+Bernie Sanders,Politician Activist Author,2,Jane O'Meara,33,True,Politician
 Tim Kaine,Politician,1,Anne Holton,37,True,Politician
 Mark Warner,Politician,1,Lisa Collis,32,True,Politician
-Patty Murray,Unknown,1,Rob Murray,49,True,Unknown
+Patty Murray,Teacher,1,Rob Murray,49,True,Unknown
 Joe Manchin III,Politician,1,Gayle Connelly,54,True,Unknown
 Cynthia Lummis,Politician,1,Alvin Wiederspahn,31,False,Unknown
 Jerry Carl,Politician,1,Tina Carl,40,True,Unknown
@@ -108,7 +108,7 @@ Ami Bera,Politician,1,Janine Bera,30,True,Unknown
 Jay Obernolte,Politician,1,Heather Obernolte,25,True,Unknown
 Jerry McNerney,Politician,1,Mary Martine,44,True,Unknown
 Josh Harder,Politician,1,Pamela Sud,3,True,Unknown
-Nancy Pelosi,Politician,1,Paul Pelosi,58,True,Unknown
+Nancy Pelosi,Politician,1,Paul Pelosi,58,True,Businessman
 Barbara Lee,Politician,1,Clyde Oden,2,True,Unknown
 Jackie Speier,Politician,1,Steve Sierra,7,False,Unknown
 Jackie Speier,Politician,2,Barry Dennis,20,True,Unknown
@@ -117,7 +117,7 @@ Ro Khanna,Politician,1,Ritu Ahuja,6,True,Unknown
 Zoe Lofgren,Politician,1,John Collins,43,True,Unknown
 David Valadao,Politician,1,Terra Valadao,22,True,Unknown
 Devin Nunes,Politician,1,Elizabeth Tamariz,18,True,Unknown
-Judy Chu,Politician,1,Mike Eng,43,True,Unknown
+Judy Chu,Politician,1,Mike Eng,43,True,State Board Member Attorney Faculty Member
 Adam Schiff,Politician,1,Eve Sanderson,26,True,Unknown
 Brad Sherman,Politician,1,Lisa Kaplan,15,True,Unknown
 Grace Napolitano,Politician,1,Frank Napolitano,37,False,Unknown
@@ -128,14 +128,14 @@ Linda Sánchez,Politician,1,James Sullivan,12,True,Unknown
 Young Kim,Politician,1,Charles Kim,35,True,Unknown
 Maxine Waters,Politician,1,Edward Waters,16,False,Unknown
 Maxine Waters,Politician,2,Sid Williams,44,True,Politician
-Katie Porter,Politician,1,Matthew Hoffman,10,False,Unknown
+Katie Porter,Politician,1,Matthew Hoffman,10,False,Organizer
 Lou Correa,Politician,1,Esther Correa,31,True,Unknown
 Michelle Steel,Politician,1,Shawn Steel,40,True,Politician
 Mike Levin,Politician,1,Chrissy Parker Levin,10,True,Unknown
 Darrell Issa,Politician,1,Kathy Stanton,41,True,Politician
 Juan Vargas,Politician,1,Adrienne D'Ascoli,31,True,Unknown
 Diana DeGette,Politician,1,Lino Lipinsky,36,True,Unknown
-Lauren Boebert,Unknown,1,Jayson Boebert,16,True,Unknown
+Lauren Boebert,Politician Restaurateur Activist,1,Jayson Boebert,16,True,Unknown
 Ken Buck,Politician,1,Dayna Roane,10,False,Unknown
 Ken Buck,Politician,2,Perry Buck,22,False,Politician
 Doug Lamborn,Politician,1,Jeanie Lamborn,44,True,Unknown
@@ -150,7 +150,7 @@ Neal Dunn,Politician,1,Leah Dunn,34,True,Unknown
 Kat Cammack,Politician,1,Matthew Harrison,4,True,Unknown
 Bill Posey,Politician,1,Katie Ingram,54,True,Unknown
 Darren Soto,Politician,1,Amanda Soto,8,True,Unknown
-Val Demings,Unknown,1,Jerry Demings,33,True,Politician
+Val Demings,Politician Former Police Officer,1,Jerry Demings,33,True,Politician
 Gus Bilirakis,Politician,1,Eva Lialios,30,True,Unknown
 Charlie Crist,Politician,1,Amanda Morrow,1,False,Unknown
 Charlie Crist,Politician,2,Carole Oumano,9,False,Unknown
@@ -159,14 +159,14 @@ Brian Mast,Politician,1,Brianna Mast,14,True,Unknown
 Debbie Wasserman Schultz,Politician,1,Steve Schultz,30,True,Unknown
 Frederica Wilson,Politician,1,Paul Wilson,25,False,Unknown
 Maria Elvira Salazar,Politician,1,Renzo Maietto,11,False,Unknown
-Jody Hice,Unknown,1,Dee Dee Hice,38,True,Unknown
+Jody Hice,Pastor,1,Dee Dee Hice,38,True,Unknown
 Barry Loudermilk,Politician,1,Desiree Loudermilk,38,True,Unknown
 Marjorie Taylor Greene,Politician,1,Perry Greene,26,True,Unknown
 Michael San Nicolas,Politician,1,Kathryn Santos Ko,16,True,Unknown
 Ed Case,Politician,1,Audrey Nakamura,20,True,Unknown
 Russ Fulcher,Politician,1,Kara,3,True,Unknown
 Bobby Rush,Politician,1,Sandra Milan,8,False,Unknown
-Bobby Rush,Politician,2,Carolyn Thomas,37,False,Unknown
+Bobby Rush,Politician,2,Carolyn Thomas,37,False,Postal Worker
 Bobby Rush,Politician,3,Paulette Holloway,3,True,Unknown
 Robin Kelly,Politician,1,Nathaniel Horn,18,True,Unknown
 Marie Newman,Politician,1,Jim Newman,25,True,Unknown
@@ -180,7 +180,7 @@ Darin LaHood,Politician,1,Kristen Noble,20,True,Unknown
 Jackie Walorski,Politician,1,Dean Swihart,26,True,Unknown
 Jim Banks,Politician,1,Amanda Banks,16,True,Unknown
 Victoria Spartz,Politician,1,Jason Spartz,21,True,Unknown
-Greg Pence,Politician,1,Denise Pence,40,True,Unknown
+Greg Pence,Politician,1,Denise Pence,40,True,Actress
 Trey Hollingsworth,Politician,1,Kelly Francis,7,True,Unknown
 Ashley Hinson,Politician,1,Matthew Hinson,13,True,Unknown
 Mariannette Miller-Meeks,Politician,1,Curt Meeks,38,True,Unknown
@@ -202,7 +202,7 @@ John Sarbanes,Politician,1,Dina Caplan,33,True,Unknown
 Steny Hoyer,Politician,1,Judith Pickett,36,False,Unknown
 David Trone,Politician,1,June Trone,34,True,Unknown
 Kweisi Mfume,Politician,1,Tiffany McMillan,9,True,Unknown
-Jamie Raskin,Unknown,1,Sarah Bloom,31,True,Politician
+Jamie Raskin,Professor,1,Sarah Bloom,31,True,Politician
 Richard Neal,Politician,1,Maureen Conway,46,True,Unknown
 Jake Auchincloss,Politician,1,Michelle Gattineri,4,True,Unknown
 Katherine Clark,Politician,1,Rodney Dowell,29,True,Unknown
@@ -212,7 +212,7 @@ Bill Huizenga,Politician,1,Natalie Huizenga,28,True,Unknown
 Peter Meijer,Politician,1,Gabriella Zacarias,5,True,Unknown
 Dan Kildee,Politician,1,Jennifer Kildee,33,True,Unknown
 Fred Upton,Politician,1,Amey Rulon-Miller,38,True,Unknown
-Tim Walberg,Unknown,1,Susan Walberg,47,True,Unknown
+Tim Walberg,Pastor (Former),1,Susan Walberg,47,True,Unknown
 Elissa Slotkin,Politician,1,David Moore,4,True,Unknown
 Andy Levin,Politician,1,Mary Freeman,30,True,Unknown
 Debbie Dingell,Politician,1,John Dingell,38,False,Unknown
@@ -247,7 +247,7 @@ Adriano Espaillat,Politician,1,Martha Madera,42,True,Unknown
 Elise Stefanik,Politician,1,Matthew Manda,4,True,Unknown
 John Katko,Politician,1,Robin Gibson,34,True,Unknown
 Joseph Morelle,Politician,1,Mary Beth Bauer,37,True,Unknown
-Eleanor Holmes Norton,Politician,1,Edward Norton,28,False,Unknown
+Eleanor Holmes Norton,Politician,1,Edward Norton,28,False,Actor
 Virginia Foxx,Politician,1,Thomas Foxx,58,True,Unknown
 Patrick McHenry,Politician,1,Giulia Cangiano,11,True,Unknown
 Madison Cawthorn,Politician,1,Cristina Bayardelle,1,True,Politician
@@ -275,7 +275,7 @@ Matt Cartwright,Politician,1,Marion Munley,36,True,Unknown
 Lloyd Smucker,Politician,1,Cindy Smucker,29,True,Unknown
 Conor Lamb,Politician,1,Hayley Haldeman,2,True,Unknown
 Nancy Mace,Politician,1,Chris Niemiec,3,False,Unknown
-Nancy Mace,Politician,2,Curtis Jackson,15,False,Unknown
+Nancy Mace,Politician,2,Curtis Jackson,15,False,Musician
 William Timmons,Politician,1,Sarah Anderson,2,True,Unknown
 Ralph Norman,Politician,1,Elaine Rice,45,True,Unknown
 James Clyburn,Politician,1,Emily England,58,False,Unknown
@@ -303,7 +303,7 @@ Michael Cloud,Politician,1,Rosel Cloud,22,True,Unknown
 Eddie Bernice Johnson,Politician,1,Lacey Johnson,14,False,Unknown
 Colin Allred,Politician,1,Alexandra Eber,4,True,Unknown
 Lloyd Doggett,Politician,1,Libby Belk,52,True,Unknown
-Brian Babin,Unknown,1,Roxanne Babin,49,True,Unknown
+Brian Babin,Dentist,1,Roxanne Babin,49,True,Unknown
 Blake Moore,Politician,1,Jane Boyer,11,True,Unknown
 Burgess Owens,Politician,1,Josie Owens,34,False,Unknown
 Peter Welch,Politician,1,Joan Smith,18,False,Unknown
@@ -327,614 +327,614 @@ Ronald James Kind,Politician,1,Tawni Zappa,27,True,Unknown
 Liz Cheney,Politician,1,Philip Perry,28,True,Politician
 Ricardo Rosselló,Politician,1,Natasha Marie Cervi,2,False,Unknown
 Ricardo Rosselló,Politician,2,Beatriz Areizaga,9,True,Unknown
-F. Murray Abraham,Unknown,1,Kate Hannan,59,True,Unknown
-Amy Adams,Unknown,1,Darren Le Gallo,6,True,Unknown
-Casey Affleck,Unknown,1,Summer Phoenix,11,False,Unknown
-Shohreh Aghdashloo,Unknown,1,Aydin Aghdashloo,7,False,Unknown
-Shohreh Aghdashloo,Unknown,2,Houshang Touzie,34,True,Unknown
-Riz Ahmed,Unknown,1,Fatima Farheen Mirza,1,True,Unknown
+F. Murray Abraham,Actor,1,Kate Hannan,59,True,Unknown
+Amy Adams,Actress,1,Darren Le Gallo,6,True,Unknown
+Casey Affleck,Actor,1,Summer Phoenix,11,False,Actress
+Shohreh Aghdashloo,Actress,1,Aydin Aghdashloo,7,False,Painter Art Historian Art Critic
+Shohreh Aghdashloo,Actress,2,Houshang Touzie,34,True,Unknown
+Riz Ahmed,Musician,1,Fatima Farheen Mirza,1,True,Unknown
 Anouk Aimée,Unknown,1,Edouard Zimmermann,1,False,Unknown
 Anouk Aimée,Unknown,2,Nikos Papatakis,3,False,Unknown
 Anouk Aimée,Unknown,3,Pierre Barouh,3,False,Unknown
 Anouk Aimée,Unknown,4,Albert Finney,8,False,Unknown
-Alan Alda,Unknown,1,Arlene Weiss Alda,64,True,Unknown
-Jane Alexander,Unknown,1,Robert Alexander,12,False,Unknown
-Jane Alexander,Unknown,2,Edwin Sherin,42,False,Unknown
-Mahershala Ali,Unknown,1,Amatus Sami-Karim,8,True,Unknown
-Joan Allen,Unknown,1,Peter Friedman,12,False,Unknown
-Woody Allen,Unknown,1,Harlene Susan Rosen,6,False,Unknown
-Woody Allen,Unknown,2,Louise Lasser,4,False,Unknown
-Woody Allen,Unknown,3,Soon-Yi Previn,24,True,Unknown
-Julie Andrews,Unknown,1,Tony Walton,8,False,Unknown
-Julie Andrews,Unknown,2,Blake Edwards,41,False,Unknown
-Ann-Margret,Unknown,1,Roger Smith,50,False,Unknown
-Anne Archer,Unknown,1,William Davis,8,False,Unknown
-Anne Archer,Unknown,2,Terry Jastrow,42,True,Unknown
-Patricia Arquette,Unknown,1,Nicolas Cage,6,False,Unknown
-Patricia Arquette,Unknown,2,Thomas Jane,5,False,Unknown
-Margaret Avery,Unknown,1,Robert Gordon Hunt,6,False,Unknown
-Dan Aykroyd,Unknown,1,Donna Dixon,38,True,Unknown
-Mary Badham,Unknown,1,Richard Wilt,46,True,Unknown
-Carroll Baker,Unknown,1,Louie Ritter,0,False,Unknown
-Carroll Baker,Unknown,2,Jack Garfein,14,False,Unknown
-Carroll Baker,Unknown,3,Donald Burton,29,False,Unknown
-Alec Baldwin,Unknown,1,Kim Basinger,9,False,Unknown
-Alec Baldwin,Unknown,2,Hilaria Baldwin,9,True,Unknown
-Christian Bale,Unknown,1,Sibi Blažić,21,True,Unknown
-Antonio Banderas,Unknown,1,Ana Leza,9,False,Unknown
-Antonio Banderas,Unknown,2,Melanie Griffith,19,False,Unknown
-Javier Bardem,Unknown,1,Penélope Cruz,11,True,Unknown
-Sacha Baron Cohen,Unknown,1,Isla Fisher,11,True,Unknown
-Marie-Christine Barrault,Unknown,1,Daniel Toscan du Plantier,0,False,Unknown
-Marie-Christine Barrault,Unknown,2,Roger Vadim,10,False,Unknown
-Adriana Barraza,Unknown,1,Carlos Valsagna,7,False,Unknown
-Adriana Barraza,Unknown,2,Arnaldo Pipke,16,True,Unknown
-Barbara Barrie,Unknown,1,Jay Harnick,43,False,Unknown
-Mikhail Baryshnikov,Unknown,1,Lisa Rinehart,15,True,Unknown
-Kim Basinger,Unknown,1,Ron Snyder,9,False,Unknown
-Kim Basinger,Unknown,2,Alec Baldwin,9,False,Unknown
-Angela Bassett,Unknown,1,Courtney B. Vance,24,True,Unknown
-Kathy Bates,Unknown,1,Tony Campisi,6,False,Unknown
-Warren Beatty,Unknown,1,Annette Bening,29,True,Unknown
-Roberto Benigni,Unknown,1,Nicoletta Braschi,30,True,Unknown
-Annette Bening,Unknown,1,J. Steven White,7,False,Unknown
-Annette Bening,Unknown,2,Warren Beatty,29,True,Unknown
-Tom Berenger,Unknown,1,Barbara Wilson,8,False,Unknown
-Tom Berenger,Unknown,2,Lisa Williams,11,False,Unknown
-Tom Berenger,Unknown,3,Patricia Alvaran,13,False,Unknown
-Tom Berenger,Unknown,4,Laura Moretti,9,True,Unknown
-Candice Bergen,Unknown,1,Louis Malle,15,False,Unknown
-Candice Bergen,Unknown,2,Marshall Rose,21,True,Unknown
-Demián Bichir,Unknown,1,Lisset,2,False,Unknown
-Ronee Blakley,Unknown,1,Wim Wenders,2,False,Unknown
-Cate Blanchett,Unknown,1,Andrew Upton,24,True,Unknown
-Brenda Blethyn,Unknown,1,Alan Blethyn,9,False,Unknown
-Brenda Blethyn,Unknown,2,Michael Mayhew,11,True,Unknown
-Mary J. Blige,Unknown,1,"Martin ""Kendu"" Isaacs",15,False,Unknown
-Ann Blyth,Unknown,1,James McNulty,54,False,Unknown
-Lorraine Bracco,Unknown,1,Daniel Guerard,3,False,Unknown
-Lorraine Bracco,Unknown,2,Edward James Olmos,8,False,Unknown
-Kenneth Branagh,Unknown,1,Emma Thompson,6,False,Unknown
-Kenneth Branagh,Unknown,2,Lindsay Brunnock,18,True,Unknown
-Jeff Bridges,Unknown,1,Susan Geston,44,True,Unknown
-Jim Broadbent,Unknown,1,Anastasia Lewis,34,True,Unknown
-Josh Brolin,Unknown,1,Alice Adair,6,False,Unknown
-Josh Brolin,Unknown,2,Diane Lane,9,False,Unknown
-Josh Brolin,Unknown,3,Kathryn Boyd,5,True,Unknown
-Albert Brooks,Unknown,1,Kimberly Shlain Brooks,24,True,Unknown
-Geneviève Bujold,Unknown,1,Paul Almond,7,False,Unknown
-Sandra Bullock,Unknown,1,Jesse James,5,False,Unknown
-Ellen Burstyn,Unknown,1,William Alexander,7,False,Unknown
-Ellen Burstyn,Unknown,2,Paul Roberts,3,False,Unknown
-Ellen Burstyn,Unknown,3,Neil Burstyn,8,False,Unknown
-Gary Busey,Unknown,1,Judy Helkenberg,22,False,Unknown
-Gary Busey,Unknown,2,Tiani Warden,5,False,Unknown
-James Caan,Unknown,1,Dee Jay Mattis,6,False,Unknown
-James Caan,Unknown,2,Sheila Marie Ryan,1,False,Unknown
-James Caan,Unknown,3,Ingrid Hajek,5,False,Unknown
-James Caan,Unknown,4,Linda Stokes,22,False,Unknown
-Nicolas Cage,Unknown,1,Patricia Arquette,6,False,Unknown
-Nicolas Cage,Unknown,2,Lisa Marie Presley,2,False,Unknown
-Nicolas Cage,Unknown,3,Alice Kim,12,False,Unknown
-Nicolas Cage,Unknown,4,Erika Koike,0,False,Unknown
-Nicolas Cage,Unknown,5,Riko Shibata,0,True,Unknown
-Michael Caine,Unknown,1,Patricia Haines,7,False,Unknown
-Michael Caine,Unknown,2,Shakira Baksh,48,True,Unknown
-Dyan Cannon,Unknown,1,Cary Grant,3,False,Unknown
-Dyan Cannon,Unknown,2,Stanley Fimberg,6,False,Unknown
-Steve Carell,Unknown,1,Nancy Walls,26,True,Unknown
-Lynn Carlin,Unknown,1,Peter Hall,2,False,Unknown
-Lynn Carlin,Unknown,2,Ed Carlin,11,False,Unknown
-Lynn Carlin,Unknown,3,John Wolfe,16,False,Unknown
-Leslie Caron,Unknown,1,Geordie Hormel,3,False,Unknown
-Leslie Caron,Unknown,2,Peter Hall,9,False,Unknown
-Leslie Caron,Unknown,3,Michael Laughlin,11,False,Unknown
-Keisha Castle-Hughes,Unknown,1,Jonathan Morrison,3,False,Unknown
-Keisha Castle-Hughes,Unknown,2,Donny Grahamer,0,True,Unknown
-Stockard Channing,Unknown,1,Walter Channing Jr.,4,False,Unknown
-Stockard Channing,Unknown,2,Paul Schmidt,6,False,Unknown
-Stockard Channing,Unknown,3,David Debin,4,False,Unknown
-Stockard Channing,Unknown,4,David Rawle,8,False,Unknown
-Jessica Chastain,Unknown,1,Gian Luca Passi de Preposulo,4,True,Unknown
-Don Cheadle,Unknown,1,Bridgid Coulter,1,True,Unknown
-Cher,Unknown,1,Sonny Bono,6,False,Unknown
-Cher,Unknown,2,Gregg Allman,4,False,Unknown
-Candy Clark,Unknown,1,Marjoe Gortner,1,False,Unknown
-Candy Clark,Unknown,2,Jeff Wald,1,False,Unknown
-George Clooney,Unknown,1,Talia Balsam,4,False,Unknown
-George Clooney,Unknown,2,Amal Alamuddin,7,True,Unknown
-Glenn Close,Unknown,1,Cabot Wade,2,False,Unknown
-Glenn Close,Unknown,2,James Marlas,3,False,Unknown
-Glenn Close,Unknown,3,David Evans Shaw,9,False,Unknown
-Toni Collette,Unknown,1,Dave Galafassi,18,True,Unknown
-Pauline Collins,Unknown,1,John Alderton,52,True,Unknown
-Olivia Colman,Unknown,1,Ed Sinclair,20,True,Unknown
-Jennifer Connelly,Unknown,1,Paul Bettany,18,True,Unknown
-Tom Conti,Unknown,1,Kara Wilson,54,True,Unknown
-Bradley Cooper,Unknown,1,Jennifer Esposito,1,False,Unknown
-Chris Cooper,Unknown,1,Marianne Leone,38,True,Unknown
-Kevin Costner,Unknown,1,Cindy Silva,16,False,Unknown
-Kevin Costner,Unknown,2,Christine Baumgartner,17,True,Unknown
-Bryan Cranston,Unknown,1,Mickey Middleton,5,False,Unknown
-Bryan Cranston,Unknown,2,Robin Dearden,32,True,Unknown
-James Cromwell,Unknown,1,Anne Ulvestad,9,False,Unknown
-James Cromwell,Unknown,2,Julie Cobb,19,False,Unknown
-James Cromwell,Unknown,3,Anna Stuart,7,True,Unknown
-Lindsay Crouse,Unknown,1,David Mamet,13,False,Unknown
-Lindsay Crouse,Unknown,2,Rick Blue,23,True,Unknown
-Russell Crowe,Unknown,1,Danielle Spencer,15,False,Unknown
-Tom Cruise,Unknown,1,Mimi Rogers,3,False,Unknown
-Tom Cruise,Unknown,2,Nicole Kidman,11,False,Unknown
-Tom Cruise,Unknown,3,Katie Holmes,6,False,Unknown
-Penélope Cruz,Unknown,1,Javier Bardem,11,True,Unknown
-Benedict Cumberbatch,Unknown,1,Sophie Hunter,6,True,Unknown
-Joan Cusack,Unknown,1,Richard Burke,25,True,Unknown
-Willem Dafoe,Unknown,1,Giada Colagrande,16,True,Unknown
-Matt Damon,Unknown,1,Luciana Bozán Barroso,16,True,Unknown
-Geena Davis,Unknown,1,Richard Emmolo,3,False,Unknown
-Geena Davis,Unknown,2,Jeff Goldblum,4,False,Unknown
-Geena Davis,Unknown,3,Renny Harlin,5,False,Unknown
-Judy Davis,Unknown,1,Colin Friels,37,True,Unknown
-Viola Davis,Unknown,1,Julius Tennon,18,True,Unknown
-Daniel Day-Lewis,Unknown,1,Rebecca Miller,25,True,Unknown
-Robert De Niro,Unknown,1,Diahnne Abbott,12,False,Unknown
-Robert De Niro,Unknown,2,Grace Hightower,21,False,Unknown
-Judi Dench,Unknown,1,Michael Williams,30,False,Unknown
-Catherine Deneuve,Unknown,1,David Bailey,7,False,Unknown
-Gérard Depardieu,Unknown,1,Élisabeth Guignot,25,False,Unknown
-Johnny Depp,Unknown,1,Lori Allison,2,False,Unknown
-Johnny Depp,Unknown,2,Amber Heard,2,False,Unknown
-Laura Dern,Unknown,1,Ben Harper,8,False,Unknown
-Melinda Dillon,Unknown,1,Richard Libertini,15,False,Unknown
-Michael Douglas,Unknown,1,Diandra Luker,23,False,Unknown
-Michael Douglas,Unknown,2,Catherine Zeta-Jones,21,True,Unknown
-Robert Downey Jr.,Unknown,1,Deborah Falconer,12,False,Unknown
-Robert Downey Jr.,Unknown,2,Susan Levin,16,True,Unknown
-Richard Dreyfuss,Unknown,1,Jeramie Rain,12,False,Unknown
-Richard Dreyfuss,Unknown,2,Janelle Lacey,6,False,Unknown
-Richard Dreyfuss,Unknown,3,Svetlana Erokhin,15,True,Unknown
-Adam Driver,Unknown,1,Joanne Tucker,8,True,Unknown
-Faye Dunaway,Unknown,1,Peter Wolf,5,False,Unknown
-Faye Dunaway,Unknown,2,Terry O'Neill,4,False,Unknown
-Robert Duvall,Unknown,1,Barbara Benjamin Marcus,17,False,Unknown
-Robert Duvall,Unknown,2,Gail Youngs,4,False,Unknown
-Robert Duvall,Unknown,3,Sharon Brophy,4,False,Unknown
-Robert Duvall,Unknown,4,Luciana Pedraza,16,True,Unknown
-Clint Eastwood,Unknown,1,Maggie Johnson,31,False,Unknown
-Clint Eastwood,Unknown,2,Dina Ruiz,18,False,Unknown
-Samantha Eggar,Unknown,1,Tom Stern,7,False,Unknown
-Jesse Eisenberg,Unknown,1,Anna Strout,4,True,Unknown
-Sam Elliott,Unknown,1,Katharine Ross,37,True,Unknown
-Vera Farmiga,Unknown,1,Sebastian Roché,7,False,Unknown
-Vera Farmiga,Unknown,2,Renn Hawkey,13,True,Unknown
-Michael Fassbender,Unknown,1,Alicia Vikander,4,True,Unknown
-Sally Field,Unknown,1,Steve Craig,7,False,Unknown
-Sally Field,Unknown,2,Alan Greisman,10,False,Unknown
-Ralph Fiennes,Unknown,1,Alex Kingston,4,False,Unknown
-Louise Fletcher,Unknown,1,Jerry Bick,17,False,Unknown
-Jane Fonda,Unknown,1,Roger Vadim,8,False,Unknown
-Jane Fonda,Unknown,2,Tom Hayden,17,False,Unknown
-Jane Fonda,Unknown,3,Ted Turner,10,False,Unknown
-Harrison Ford,Unknown,1,Mary Marquardt,15,False,Unknown
-Harrison Ford,Unknown,2,Melissa Mathison,21,False,Unknown
-Harrison Ford,Unknown,3,Calista Flockhart,11,True,Unknown
-Frederic Forrest,Unknown,1,Nancy Ann Whittaker,3,False,Unknown
-Frederic Forrest,Unknown,2,Marilu Henner,3,False,Unknown
-Jodie Foster,Unknown,1,Alexandra Hedison,7,True,Unknown
-Morgan Freeman,Unknown,1,Jeanette Adair Bradshaw,12,False,Unknown
-Morgan Freeman,Unknown,2,Myrna Colley-Lee,26,False,Unknown
-Brenda Fricker,Unknown,1,Barry Davies,9,False,Unknown
-Andy García,Unknown,1,Marivi Lorido García,39,True,Unknown
-Teri Garr,Unknown,1,John O'Neil,3,False,Unknown
-Paul Giamatti,Unknown,1,Elizabeth Cohen,24,True,Unknown
-Giancarlo Giannini,Unknown,1,Livia Giampalmo,8,False,Unknown
-Giancarlo Giannini,Unknown,2,Eurilla del Bono,38,True,Unknown
-Whoopi Goldberg,Unknown,1,Alvin Martin,6,False,Unknown
-Whoopi Goldberg,Unknown,2,David Claessen,2,False,Unknown
-Whoopi Goldberg,Unknown,3,Lyle Trachtenberg,1,False,Unknown
-Elliott Gould,Unknown,1,Barbra Streisand,8,False,Unknown
-Elliott Gould,Unknown,2,Jennifer Bogart,2,False,Unknown
-Elliott Gould,Unknown,3,Jennifer Bogart,11,False,Unknown
-Lee Grant,Unknown,1,Arnold Manoff,9,False,Unknown
-Lee Grant,Unknown,2,Joseph Feury,51,True,Unknown
-Richard E. Grant,Unknown,1,Joan Washington,35,True,Unknown
-Joel Grey,Unknown,1,Jo Wilder,24,False,Unknown
-Rachel Griffiths,Unknown,1,Andrew Taylor,19,True,Unknown
-Maggie Gyllenhaal,Unknown,1,Peter Sarsgaard,12,True,Unknown
-Gene Hackman,Unknown,1,Faye Maltese,30,False,Unknown
-Gene Hackman,Unknown,2,Betsy Arakawa,30,True,Unknown
-Tom Hanks,Unknown,1,Samantha Lewes,9,False,Unknown
-Tom Hanks,Unknown,2,Rita Wilson,33,True,Unknown
-Marcia Gay Harden,Unknown,1,Thaddaeus Scheel,16,False,Unknown
-Tom Hardy,Unknown,1,Sarah Ward,5,False,Unknown
-Tom Hardy,Unknown,2,Charlotte Riley,7,True,Unknown
-Woody Harrelson,Unknown,1,Nancy Simon,1,False,Unknown
-Woody Harrelson,Unknown,2,Laura Louie,13,True,Unknown
-Ed Harris,Unknown,1,Amy Madigan,38,True,Unknown
-Rosemary Harris,Unknown,1,Ellis Rabb,8,False,Unknown
-Rosemary Harris,Unknown,2,John Ehle,51,False,Unknown
-Anne Hathaway,Unknown,1,Adam Shulman,9,True,Unknown
-Ethan Hawke,Unknown,1,Uma Thurman,7,False,Unknown
-Ethan Hawke,Unknown,2,Ryan Shawhughes,13,True,Unknown
-Goldie Hawn,Unknown,1,Gus Trikonis,7,False,Unknown
-Goldie Hawn,Unknown,2,Bill Hudson,6,False,Unknown
-Salma Hayek,Unknown,1,François-Henri Pinault,12,True,Unknown
-Mariel Hemingway,Unknown,1,Stephen Crisman,25,False,Unknown
-Barbara Hershey,Unknown,1,Stephen Douglas,1,False,Unknown
-Judd Hirsch,Unknown,1,Elisa Sadaune,11,False,Unknown
-Judd Hirsch,Unknown,2,Bonni Sue Chalkin,13,False,Unknown
-Dustin Hoffman,Unknown,1,Anne Byrne,11,False,Unknown
-Dustin Hoffman,Unknown,2,Lisa Gottsegen,41,True,Unknown
-Anthony Hopkins,Unknown,1,Petronella Barker,6,False,Unknown
-Anthony Hopkins,Unknown,2,Jennifer Lynton,29,False,Unknown
-Anthony Hopkins,Unknown,3,Stella Arroyave,18,True,Unknown
-Kate Hudson,Unknown,1,Chris Robinson,7,False,Unknown
-Felicity Huffman,Unknown,1,William H. Macy,24,True,Unknown
-Helen Hunt,Unknown,1,Hank Azaria,1,False,Unknown
-Linda Hunt,Unknown,1,Karen Kline,13,True,Unknown
-Holly Hunter,Unknown,1,Janusz Kamiński,6,False,Unknown
-William Hurt,Unknown,1,Mary Beth Hurt,11,False,Unknown
-William Hurt,Unknown,2,Heidi Henderson,3,False,Unknown
-Anjelica Huston,Unknown,1,Robert Graham,16,False,Unknown
-Jeremy Irons,Unknown,1,Julie Hallam,0,False,Unknown
-Jeremy Irons,Unknown,2,Sinéad Cusack,43,True,Unknown
-Amy Irving,Unknown,1,Steven Spielberg,4,False,Unknown
-Amy Irving,Unknown,2,Bruno Barreto,9,False,Unknown
-Amy Irving,Unknown,3,Kenneth Bowser,14,True,Unknown
-Hugh Jackman,Unknown,1,Deborra-Lee Furness,25,True,Unknown
+Alan Alda,Actor,1,Arlene Weiss Alda,64,True,Unknown
+Jane Alexander,Politician,1,Robert Alexander,12,False,Unknown
+Jane Alexander,Politician,2,Edwin Sherin,42,False,Unknown
+Mahershala Ali,Actor,1,Amatus Sami-Karim,8,True,Unknown
+Joan Allen,Actress,1,Peter Friedman,12,False,Actor
+Woody Allen,Musician,1,Harlene Susan Rosen,6,False,Unknown
+Woody Allen,Musician,2,Louise Lasser,4,False,Actress
+Woody Allen,Musician,3,Soon-Yi Previn,24,True,Unknown
+Julie Andrews,Musician,1,Tony Walton,8,False,Costume Designer
+Julie Andrews,Musician,2,Blake Edwards,41,False,Unknown
+Ann-Margret,Musician,1,Roger Smith,50,False,Unknown
+Anne Archer,Actress,1,William Davis,8,False,Unknown
+Anne Archer,Actress,2,Terry Jastrow,42,True,Unknown
+Patricia Arquette,Actress,1,Nicolas Cage,6,False,Actor
+Patricia Arquette,Actress,2,Thomas Jane,5,False,Actor
+Margaret Avery,Actress,1,Robert Gordon Hunt,6,False,Unknown
+Dan Aykroyd,Unknown,1,Donna Dixon,38,True,Actress
+Mary Badham,Actress,1,Richard Wilt,46,True,Unknown
+Carroll Baker,Actress,1,Louie Ritter,0,False,Unknown
+Carroll Baker,Actress,2,Jack Garfein,14,False,Unknown
+Carroll Baker,Actress,3,Donald Burton,29,False,Unknown
+Alec Baldwin,Actor,1,Kim Basinger,9,False,Musician
+Alec Baldwin,Actor,2,Hilaria Baldwin,9,True,Author
+Christian Bale,Actor,1,Sibi Blažić,21,True,Unknown
+Antonio Banderas,Actor,1,Ana Leza,9,False,Unknown
+Antonio Banderas,Actor,2,Melanie Griffith,19,False,Actress
+Javier Bardem,Actor,1,Penélope Cruz,11,True,Actress
+Sacha Baron Cohen,Actor,1,Isla Fisher,11,True,Actress
+Marie-Christine Barrault,Actress,1,Daniel Toscan du Plantier,0,False,Unknown
+Marie-Christine Barrault,Actress,2,Roger Vadim,10,False,Unknown
+Adriana Barraza,Actress,1,Carlos Valsagna,7,False,Unknown
+Adriana Barraza,Actress,2,Arnaldo Pipke,16,True,Unknown
+Barbara Barrie,Musician,1,Jay Harnick,43,False,Unknown
+Mikhail Baryshnikov,Actor,1,Lisa Rinehart,15,True,Unknown
+Kim Basinger,Musician,1,Ron Snyder,9,False,Unknown
+Kim Basinger,Musician,2,Alec Baldwin,9,False,Actor
+Angela Bassett,Actress,1,Courtney B. Vance,24,True,Actor
+Kathy Bates,Actress,1,Tony Campisi,6,False,Unknown
+Warren Beatty,Actor,1,Annette Bening,29,True,Actress
+Roberto Benigni,Actor,1,Nicoletta Braschi,30,True,Actress
+Annette Bening,Actress,1,J. Steven White,7,False,Unknown
+Annette Bening,Actress,2,Warren Beatty,29,True,Actor
+Tom Berenger,Actor,1,Barbara Wilson,8,False,Unknown
+Tom Berenger,Actor,2,Lisa Williams,11,False,Unknown
+Tom Berenger,Actor,3,Patricia Alvaran,13,False,Unknown
+Tom Berenger,Actor,4,Laura Moretti,9,True,Unknown
+Candice Bergen,Actress,1,Louis Malle,15,False,Unknown
+Candice Bergen,Actress,2,Marshall Rose,21,True,Unknown
+Demián Bichir,Actor,1,Lisset,2,False,Actress
+Ronee Blakley,Actress,1,Wim Wenders,2,False,Photographer
+Cate Blanchett,Actress,1,Andrew Upton,24,True,Director
+Brenda Blethyn,Actress,1,Alan Blethyn,9,False,Unknown
+Brenda Blethyn,Actress,2,Michael Mayhew,11,True,Unknown
+Mary J. Blige,Musician,1,"Martin ""Kendu"" Isaacs",15,False,Unknown
+Ann Blyth,Actress,1,James McNulty,54,False,Unknown
+Lorraine Bracco,Actress,1,Daniel Guerard,3,False,Unknown
+Lorraine Bracco,Actress,2,Edward James Olmos,8,False,Actor
+Kenneth Branagh,Actor,1,Emma Thompson,6,False,Actress
+Kenneth Branagh,Actor,2,Lindsay Brunnock,18,True,Unknown
+Jeff Bridges,Musician,1,Susan Geston,44,True,Unknown
+Jim Broadbent,Actor,1,Anastasia Lewis,34,True,Unknown
+Josh Brolin,Actor,1,Alice Adair,6,False,Unknown
+Josh Brolin,Actor,2,Diane Lane,9,False,Actress
+Josh Brolin,Actor,3,Kathryn Boyd,5,True,Unknown
+Albert Brooks,Actor,1,Kimberly Shlain Brooks,24,True,Unknown
+Geneviève Bujold,Actress,1,Paul Almond,7,False,Unknown
+Sandra Bullock,Actress,1,Jesse James,5,False,Unknown
+Ellen Burstyn,Politician,1,William Alexander,7,False,Unknown
+Ellen Burstyn,Politician,2,Paul Roberts,3,False,Unknown
+Ellen Burstyn,Politician,3,Neil Burstyn,8,False,Unknown
+Gary Busey,Actor,1,Judy Helkenberg,22,False,Unknown
+Gary Busey,Actor,2,Tiani Warden,5,False,Unknown
+James Caan,Actor,1,Dee Jay Mattis,6,False,Unknown
+James Caan,Actor,2,Sheila Marie Ryan,1,False,Actor
+James Caan,Actor,3,Ingrid Hajek,5,False,Unknown
+James Caan,Actor,4,Linda Stokes,22,False,Unknown
+Nicolas Cage,Actor,1,Patricia Arquette,6,False,Actress
+Nicolas Cage,Actor,2,Lisa Marie Presley,2,False,Musician
+Nicolas Cage,Actor,3,Alice Kim,12,False,Unknown
+Nicolas Cage,Actor,4,Erika Koike,0,False,Unknown
+Nicolas Cage,Actor,5,Riko Shibata,0,True,Unknown
+Michael Caine,Actor,1,Patricia Haines,7,False,Unknown
+Michael Caine,Actor,2,Shakira Baksh,48,True,Actress
+Dyan Cannon,Actress,1,Cary Grant,3,False,Unknown
+Dyan Cannon,Actress,2,Stanley Fimberg,6,False,Unknown
+Steve Carell,Actor,1,Nancy Walls,26,True,Actress
+Lynn Carlin,Actress,1,Peter Hall,2,False,Unknown
+Lynn Carlin,Actress,2,Ed Carlin,11,False,Unknown
+Lynn Carlin,Actress,3,John Wolfe,16,False,Unknown
+Leslie Caron,Actress,1,Geordie Hormel,3,False,Unknown
+Leslie Caron,Actress,2,Peter Hall,9,False,Unknown
+Leslie Caron,Actress,3,Michael Laughlin,11,False,Film Producer
+Keisha Castle-Hughes,Actress,1,Jonathan Morrison,3,False,Unknown
+Keisha Castle-Hughes,Actress,2,Donny Grahamer,0,True,Unknown
+Stockard Channing,Actress,1,Walter Channing Jr.,4,False,Unknown
+Stockard Channing,Actress,2,Paul Schmidt,6,False,Unknown
+Stockard Channing,Actress,3,David Debin,4,False,Unknown
+Stockard Channing,Actress,4,David Rawle,8,False,Actor
+Jessica Chastain,Actress,1,Gian Luca Passi de Preposulo,4,True,Unknown
+Don Cheadle,Actor,1,Bridgid Coulter,1,True,Unknown
+Cher,Musician,1,Sonny Bono,6,False,Unknown
+Cher,Musician,2,Gregg Allman,4,False,Unknown
+Candy Clark,Actress,1,Marjoe Gortner,1,False,Actor
+Candy Clark,Actress,2,Jeff Wald,1,False,Unknown
+George Clooney,Actor,1,Talia Balsam,4,False,Actress
+George Clooney,Actor,2,Amal Alamuddin,7,True,Human Rights Activist
+Glenn Close,Actress,1,Cabot Wade,2,False,Unknown
+Glenn Close,Actress,2,James Marlas,3,False,Unknown
+Glenn Close,Actress,3,David Evans Shaw,9,False,Unknown
+Toni Collette,Musician,1,Dave Galafassi,18,True,Unknown
+Pauline Collins,Actress,1,John Alderton,52,True,Actor
+Olivia Colman,Actress,1,Ed Sinclair,20,True,Unknown
+Jennifer Connelly,Actress,1,Paul Bettany,18,True,Actor
+Tom Conti,Actor,1,Kara Wilson,54,True,Actress
+Bradley Cooper,Actor,1,Jennifer Esposito,1,False,Unknown
+Chris Cooper,Actor,1,Marianne Leone,38,True,Actress
+Kevin Costner,Actor,1,Cindy Silva,16,False,Unknown
+Kevin Costner,Actor,2,Christine Baumgartner,17,True,Unknown
+Bryan Cranston,Actor,1,Mickey Middleton,5,False,Unknown
+Bryan Cranston,Actor,2,Robin Dearden,32,True,Unknown
+James Cromwell,Actor,1,Anne Ulvestad,9,False,Unknown
+James Cromwell,Actor,2,Julie Cobb,19,False,Actress
+James Cromwell,Actor,3,Anna Stuart,7,True,Actress
+Lindsay Crouse,Actress,1,David Mamet,13,False,Author Playwright Screenwriter Film Director
+Lindsay Crouse,Actress,2,Rick Blue,23,True,Unknown
+Russell Crowe,Musician,1,Danielle Spencer,15,False,Unknown
+Tom Cruise,Actor,1,Mimi Rogers,3,False,Actress
+Tom Cruise,Actor,2,Nicole Kidman,11,False,Musician
+Tom Cruise,Actor,3,Katie Holmes,6,False,Actress
+Penélope Cruz,Actress,1,Javier Bardem,11,True,Actor
+Benedict Cumberbatch,Actor,1,Sophie Hunter,6,True,Theatre Director Playwright
+Joan Cusack,Actress,1,Richard Burke,25,True,Unknown
+Willem Dafoe,Actor,1,Giada Colagrande,16,True,Actress
+Matt Damon,Actor,1,Luciana Bozán Barroso,16,True,Actor
+Geena Davis,Actor,1,Richard Emmolo,3,False,Unknown
+Geena Davis,Actor,2,Jeff Goldblum,4,False,Musician
+Geena Davis,Actor,3,Renny Harlin,5,False,Screenwriter
+Judy Davis,Actress,1,Colin Friels,37,True,Actor
+Viola Davis,Actress,1,Julius Tennon,18,True,Unknown
+Daniel Day-Lewis,Actor,1,Rebecca Miller,25,True,Novelist
+Robert De Niro,Actor,1,Diahnne Abbott,12,False,Actress
+Robert De Niro,Actor,2,Grace Hightower,21,False,Actress
+Judi Dench,Actress,1,Michael Williams,30,False,Unknown
+Catherine Deneuve,Musician,1,David Bailey,7,False,Photographer
+Gérard Depardieu,Actor,1,Élisabeth Guignot,25,False,Actress
+Johnny Depp,Musician,1,Lori Allison,2,False,Unknown
+Johnny Depp,Musician,2,Amber Heard,2,False,Actress
+Laura Dern,Actress,1,Ben Harper,8,False,Musician
+Melinda Dillon,Actress,1,Richard Libertini,15,False,Unknown
+Michael Douglas,Actor,1,Diandra Luker,23,False,Unknown
+Michael Douglas,Actor,2,Catherine Zeta-Jones,21,True,Actress
+Robert Downey Jr.,Actor,1,Deborah Falconer,12,False,Musician
+Robert Downey Jr.,Actor,2,Susan Levin,16,True,Producer
+Richard Dreyfuss,Actor,1,Jeramie Rain,12,False,Actress
+Richard Dreyfuss,Actor,2,Janelle Lacey,6,False,Unknown
+Richard Dreyfuss,Actor,3,Svetlana Erokhin,15,True,Unknown
+Adam Driver,Actor,1,Joanne Tucker,8,True,Unknown
+Faye Dunaway,Actress,1,Peter Wolf,5,False,Musician
+Faye Dunaway,Actress,2,Terry O'Neill,4,False,Unknown
+Robert Duvall,Actor,1,Barbara Benjamin Marcus,17,False,Unknown
+Robert Duvall,Actor,2,Gail Youngs,4,False,Unknown
+Robert Duvall,Actor,3,Sharon Brophy,4,False,Unknown
+Robert Duvall,Actor,4,Luciana Pedraza,16,True,Actress
+Clint Eastwood,Politician,1,Maggie Johnson,31,False,Unknown
+Clint Eastwood,Politician,2,Dina Ruiz,18,False,Unknown
+Samantha Eggar,Actress,1,Tom Stern,7,False,Unknown
+Jesse Eisenberg,Actor,1,Anna Strout,4,True,Unknown
+Sam Elliott,Actor,1,Katharine Ross,37,True,Actress
+Vera Farmiga,Actress,1,Sebastian Roché,7,False,Actor
+Vera Farmiga,Actress,2,Renn Hawkey,13,True,Musician
+Michael Fassbender,Actor,1,Alicia Vikander,4,True,Actress
+Sally Field,Actress,1,Steve Craig,7,False,Unknown
+Sally Field,Actress,2,Alan Greisman,10,False,Unknown
+Ralph Fiennes,Actor,1,Alex Kingston,4,False,Actress
+Louise Fletcher,Actress,1,Jerry Bick,17,False,Unknown
+Jane Fonda,Actress,1,Roger Vadim,8,False,Unknown
+Jane Fonda,Actress,2,Tom Hayden,17,False,Unknown
+Jane Fonda,Actress,3,Ted Turner,10,False,Philanthropist
+Harrison Ford,Actor,1,Mary Marquardt,15,False,Unknown
+Harrison Ford,Actor,2,Melissa Mathison,21,False,Unknown
+Harrison Ford,Actor,3,Calista Flockhart,11,True,Actress
+Frederic Forrest,Actor,1,Nancy Ann Whittaker,3,False,Unknown
+Frederic Forrest,Actor,2,Marilu Henner,3,False,Actress
+Jodie Foster,Actress,1,Alexandra Hedison,7,True,Actress
+Morgan Freeman,Actor,1,Jeanette Adair Bradshaw,12,False,Unknown
+Morgan Freeman,Actor,2,Myrna Colley-Lee,26,False,Unknown
+Brenda Fricker,Actress,1,Barry Davies,9,False,Sports Commentator And Television Presenter
+Andy García,Actor,1,Marivi Lorido García,39,True,Unknown
+Teri Garr,Musician,1,John O'Neil,3,False,Unknown
+Paul Giamatti,Actor,1,Elizabeth Cohen,24,True,Journalist
+Giancarlo Giannini,Actor,1,Livia Giampalmo,8,False,Actress
+Giancarlo Giannini,Actor,2,Eurilla del Bono,38,True,Unknown
+Whoopi Goldberg,Actor,1,Alvin Martin,6,False,Unknown
+Whoopi Goldberg,Actor,2,David Claessen,2,False,Cinematographer
+Whoopi Goldberg,Actor,3,Lyle Trachtenberg,1,False,Unknown
+Elliott Gould,Actor,1,Barbra Streisand,8,False,Musician
+Elliott Gould,Actor,2,Jennifer Bogart,2,False,Unknown
+Elliott Gould,Actor,3,Jennifer Bogart,11,False,Unknown
+Lee Grant,Actress,1,Arnold Manoff,9,False,Unknown
+Lee Grant,Actress,2,Joseph Feury,51,True,Unknown
+Richard E. Grant,Actor,1,Joan Washington,35,True,Unknown
+Joel Grey,Actor,1,Jo Wilder,24,False,Unknown
+Rachel Griffiths,Actress,1,Andrew Taylor,19,True,Unknown
+Maggie Gyllenhaal,Actress,1,Peter Sarsgaard,12,True,Actor
+Gene Hackman,Actor,1,Faye Maltese,30,False,Unknown
+Gene Hackman,Actor,2,Betsy Arakawa,30,True,Unknown
+Tom Hanks,Actor,1,Samantha Lewes,9,False,Actor
+Tom Hanks,Actor,2,Rita Wilson,33,True,Musician
+Marcia Gay Harden,Actress,1,Thaddaeus Scheel,16,False,Unknown
+Tom Hardy,Actor,1,Sarah Ward,5,False,Unknown
+Tom Hardy,Actor,2,Charlotte Riley,7,True,Actress
+Woody Harrelson,Actor,1,Nancy Simon,1,False,Unknown
+Woody Harrelson,Actor,2,Laura Louie,13,True,Unknown
+Ed Harris,Actor,1,Amy Madigan,38,True,Musician
+Rosemary Harris,Actress,1,Ellis Rabb,8,False,Unknown
+Rosemary Harris,Actress,2,John Ehle,51,False,Unknown
+Anne Hathaway,Actress,1,Adam Shulman,9,True,Actress
+Ethan Hawke,Actor,1,Uma Thurman,7,False,Actress
+Ethan Hawke,Actor,2,Ryan Shawhughes,13,True,Unknown
+Goldie Hawn,Musician,1,Gus Trikonis,7,False,Actor
+Goldie Hawn,Musician,2,Bill Hudson,6,False,Unknown
+Salma Hayek,Actress,1,François-Henri Pinault,12,True,Businessman
+Mariel Hemingway,Actress,1,Stephen Crisman,25,False,Unknown
+Barbara Hershey,Actress,1,Stephen Douglas,1,False,Unknown
+Judd Hirsch,Actor,1,Elisa Sadaune,11,False,Unknown
+Judd Hirsch,Actor,2,Bonni Sue Chalkin,13,False,Unknown
+Dustin Hoffman,Actor,1,Anne Byrne,11,False,Unknown
+Dustin Hoffman,Actor,2,Lisa Gottsegen,41,True,Unknown
+Anthony Hopkins,Actor,1,Petronella Barker,6,False,Unknown
+Anthony Hopkins,Actor,2,Jennifer Lynton,29,False,Unknown
+Anthony Hopkins,Actor,3,Stella Arroyave,18,True,Actor
+Kate Hudson,Actress,1,Chris Robinson,7,False,Unknown
+Felicity Huffman,Actress,1,William H. Macy,24,True,Actor
+Helen Hunt,Actress,1,Hank Azaria,1,False,Actor
+Linda Hunt,Actress,1,Karen Kline,13,True,Unknown
+Holly Hunter,Actress,1,Janusz Kamiński,6,False,Television Director
+William Hurt,Actor,1,Mary Beth Hurt,11,False,Actress
+William Hurt,Actor,2,Heidi Henderson,3,False,Unknown
+Anjelica Huston,Actress,1,Robert Graham,16,False,Unknown
+Jeremy Irons,Actor,1,Julie Hallam,0,False,Unknown
+Jeremy Irons,Actor,2,Sinéad Cusack,43,True,Actress
+Amy Irving,Actress,1,Steven Spielberg,4,False,Director Producer Screenwriter
+Amy Irving,Actress,2,Bruno Barreto,9,False,Film Director
+Amy Irving,Actress,3,Kenneth Bowser,14,True,Unknown
+Hugh Jackman,Actor,1,Deborra-Lee Furness,25,True,Unknown
 Glenda Jackson,Politician,1,Roy Hodges,18,False,Unknown
-Samuel L. Jackson,Unknown,1,LaTanya Richardson,41,True,Unknown
-Marianne Jean-Baptiste,Unknown,1,Evan Williams,24,True,Unknown
-Richard Jenkins,Unknown,1,Sharon R. Friedrick,52,True,Unknown
-Scarlett Johansson,Unknown,1,Ryan Reynolds,3,False,Unknown
-Scarlett Johansson,Unknown,2,Romain Dauriac,3,False,Unknown
-Scarlett Johansson,Unknown,3,Colin Jost,1,True,Unknown
-Angelina Jolie,Unknown,1,Jonny Lee Miller,3,False,Unknown
-Angelina Jolie,Unknown,2,Billy Bob Thornton,3,False,Unknown
-Angelina Jolie,Unknown,3,Brad Pitt,5,False,Unknown
-Felicity Jones,Unknown,1,Charles Guard,3,True,Unknown
-James Earl Jones,Unknown,1,Julienne Marie,4,False,Unknown
-James Earl Jones,Unknown,2,Cecilia Hart,34,False,Unknown
-Shirley Jones,Unknown,1,Jack Cassidy,19,False,Unknown
-Shirley Jones,Unknown,2,Marty Ingels,38,False,Unknown
-Tommy Lee Jones,Unknown,1,"Katherine ""Kate"" Lardner",7,False,Unknown
-Tommy Lee Jones,Unknown,2,Kimberlea Cloughley,15,False,Unknown
-Tommy Lee Jones,Unknown,3,Dawn Laurel,20,True,Unknown
-Michael Keaton,Unknown,1,Caroline McWilliams,8,False,Unknown
-Catherine Keener,Unknown,1,Dermot Mulroney,17,False,Unknown
-Harvey Keitel,Unknown,1,Daphna Kastner,20,True,Unknown
-Sally Kellerman,Unknown,1,Rick Edelstein,2,False,Unknown
-Sally Kellerman,Unknown,2,Jonathan D. Krane,36,False,Unknown
-Nicole Kidman,Unknown,1,Tom Cruise,11,False,Unknown
-Nicole Kidman,Unknown,2,Keith Urban,15,True,Unknown
-Rinko Kikuchi,Unknown,1,Shōta Sometani,7,True,Unknown
-Regina King,Unknown,1,Ian Alexander,10,False,Unknown
-Ben Kingsley,Unknown,1,Angela Morant,10,False,Unknown
-Ben Kingsley,Unknown,2,Alison Sutcliffe,14,False,Unknown
-Ben Kingsley,Unknown,3,Alexandra Christmann,2,False,Unknown
-Ben Kingsley,Unknown,4,Daniela Lavender,14,True,Unknown
-Greg Kinnear,Unknown,1,Helen Labdon,22,True,Unknown
-Kevin Kline,Unknown,1,Phoebe Cates Kline,32,True,Unknown
-Keira Knightley,Unknown,1,James Righton,8,True,Unknown
-Susan Kohner,Unknown,1,John Weitz,38,False,Unknown
-Christine Lahti,Unknown,1,Thomas Schlamme,38,True,Unknown
-Diane Lane,Unknown,1,Christopher Lambert,6,False,Unknown
-Diane Lane,Unknown,2,Josh Brolin,9,False,Unknown
-Jessica Lange,Unknown,1,Paco Grande,12,False,Unknown
-Frank Langella,Unknown,1,Ruth Weil,19,False,Unknown
-Angela Lansbury,Unknown,1,Richard Cromwell,1,False,Unknown
-Angela Lansbury,Unknown,2,Peter Shaw,54,False,Unknown
-Piper Laurie,Unknown,1,Joe Morgenstern,20,False,Unknown
-Jude Law,Unknown,1,Sadie Frost,6,False,Unknown
-Jude Law,Unknown,2,Phillipa Coan,2,True,Unknown
-Jennifer Lawrence,Unknown,1,Cooke Maroney,2,True,Unknown
-Jennifer Jason Leigh,Unknown,1,Noah Baumbach,8,False,Unknown
-Juliette Lewis,Unknown,1,Steve Berra,4,False,Unknown
-Laura Linney,Unknown,1,David Adkins,5,False,Unknown
-Laura Linney,Unknown,2,Marc Schauer,12,True,Unknown
-John Lithgow,Unknown,1,Jean Taynton,14,False,Unknown
-John Lithgow,Unknown,2,Mary Yeager,40,True,Unknown
-Ali MacGraw,Unknown,1,Robin Hoen,1,False,Unknown
-Ali MacGraw,Unknown,2,Robert Evans,3,False,Unknown
-Ali MacGraw,Unknown,3,Steve McQueen,5,False,Unknown
-Shirley MacLaine,Unknown,1,Steve Parker,28,False,Unknown
-William H. Macy,Unknown,1,Felicity Huffman,24,True,Unknown
-Amy Madigan,Unknown,1,Ed Harris,38,True,Unknown
-Virginia Madsen,Unknown,1,Danny Huston,3,False,Unknown
-Virginia Madsen,Unknown,2,Nick Holmes,1,True,Unknown
-John Malkovich,Unknown,1,Glenne Headly,6,False,Unknown
-Lesley Manville,Unknown,1,Gary Oldman,3,False,Unknown
-Lesley Manville,Unknown,2,Joe Dixon,4,False,Unknown
-Marsha Mason,Unknown,1,Gary Campbell,5,False,Unknown
-Marsha Mason,Unknown,2,Neil Simon,10,False,Unknown
-Marlee Matlin,Unknown,1,Kevin Grandalski,28,True,Unknown
-Melissa McCarthy,Unknown,1,Ben Falcone,16,True,Unknown
-Matthew McConaughey,Unknown,1,Camila Alves,9,True,Unknown
-Patty McCormack,Unknown,1,Bob Catania,6,False,Unknown
-Mary McDonnell,Unknown,1,Randle Mell,37,True,Unknown
-Frances McDormand,Unknown,1,Joel Coen,37,True,Unknown
-Elizabeth McGovern,Unknown,1,Simon Curtis,29,True,Unknown
+Samuel L. Jackson,Actor,1,LaTanya Richardson,41,True,Actress
+Marianne Jean-Baptiste,Actress,1,Evan Williams,24,True,Unknown
+Richard Jenkins,Actor,1,Sharon R. Friedrick,52,True,Unknown
+Scarlett Johansson,Musician,1,Ryan Reynolds,3,False,Actor
+Scarlett Johansson,Musician,2,Romain Dauriac,3,False,Musician
+Scarlett Johansson,Musician,3,Colin Jost,1,True,Unknown
+Angelina Jolie,Actress,1,Jonny Lee Miller,3,False,Actor
+Angelina Jolie,Actress,2,Billy Bob Thornton,3,False,Musician
+Angelina Jolie,Actress,3,Brad Pitt,5,False,Actor
+Felicity Jones,Actress,1,Charles Guard,3,True,Unknown
+James Earl Jones,Actor,1,Julienne Marie,4,False,Musician
+James Earl Jones,Actor,2,Cecilia Hart,34,False,Unknown
+Shirley Jones,Actress,1,Jack Cassidy,19,False,Unknown
+Shirley Jones,Actress,2,Marty Ingels,38,False,Unknown
+Tommy Lee Jones,Actor,1,"Katherine ""Kate"" Lardner",7,False,Unknown
+Tommy Lee Jones,Actor,2,Kimberlea Cloughley,15,False,Unknown
+Tommy Lee Jones,Actor,3,Dawn Laurel,20,True,Unknown
+Michael Keaton,Actor,1,Caroline McWilliams,8,False,Unknown
+Catherine Keener,Actress,1,Dermot Mulroney,17,False,Actor
+Harvey Keitel,Actor,1,Daphna Kastner,20,True,Actress
+Sally Kellerman,Musician,1,Rick Edelstein,2,False,Unknown
+Sally Kellerman,Musician,2,Jonathan D. Krane,36,False,Unknown
+Nicole Kidman,Musician,1,Tom Cruise,11,False,Actor
+Nicole Kidman,Musician,2,Keith Urban,15,True,Musician
+Rinko Kikuchi,Actress,1,Shōta Sometani,7,True,Actor
+Regina King,Actress,1,Ian Alexander,10,False,Unknown
+Ben Kingsley,Actor,1,Angela Morant,10,False,Unknown
+Ben Kingsley,Actor,2,Alison Sutcliffe,14,False,Unknown
+Ben Kingsley,Actor,3,Alexandra Christmann,2,False,Unknown
+Ben Kingsley,Actor,4,Daniela Lavender,14,True,Actress
+Greg Kinnear,Actor,1,Helen Labdon,22,True,Unknown
+Kevin Kline,Actor,1,Phoebe Cates Kline,32,True,Actress
+Keira Knightley,Actress,1,James Righton,8,True,Musician
+Susan Kohner,Actress,1,John Weitz,38,False,Unknown
+Christine Lahti,Actress,1,Thomas Schlamme,38,True,Producer
+Diane Lane,Actress,1,Christopher Lambert,6,False,Actor
+Diane Lane,Actress,2,Josh Brolin,9,False,Actor
+Jessica Lange,Actress,1,Paco Grande,12,False,Unknown
+Frank Langella,Actor,1,Ruth Weil,19,False,Unknown
+Angela Lansbury,Actress,1,Richard Cromwell,1,False,Unknown
+Angela Lansbury,Actress,2,Peter Shaw,54,False,Unknown
+Piper Laurie,Actress,1,Joe Morgenstern,20,False,Screenwriter
+Jude Law,Actor,1,Sadie Frost,6,False,Actress
+Jude Law,Actor,2,Phillipa Coan,2,True,Unknown
+Jennifer Lawrence,Actress,1,Cooke Maroney,2,True,Actress
+Jennifer Jason Leigh,Actress,1,Noah Baumbach,8,False,Film Maker
+Juliette Lewis,Musician,1,Steve Berra,4,False,Actor
+Laura Linney,Musician,1,David Adkins,5,False,Actor
+Laura Linney,Musician,2,Marc Schauer,12,True,Unknown
+John Lithgow,Actor,1,Jean Taynton,14,False,Unknown
+John Lithgow,Actor,2,Mary Yeager,40,True,Unknown
+Ali MacGraw,Actress,1,Robin Hoen,1,False,Unknown
+Ali MacGraw,Actress,2,Robert Evans,3,False,Unknown
+Ali MacGraw,Actress,3,Steve McQueen,5,False,Unknown
+Shirley MacLaine,Musician,1,Steve Parker,28,False,Unknown
+William H. Macy,Actor,1,Felicity Huffman,24,True,Actress
+Amy Madigan,Musician,1,Ed Harris,38,True,Actor
+Virginia Madsen,Actress,1,Danny Huston,3,False,Actor
+Virginia Madsen,Actress,2,Nick Holmes,1,True,Musician
+John Malkovich,Actor,1,Glenne Headly,6,False,Unknown
+Lesley Manville,Actress,1,Gary Oldman,3,False,Actor
+Lesley Manville,Actress,2,Joe Dixon,4,False,Unknown
+Marsha Mason,Actress,1,Gary Campbell,5,False,Unknown
+Marsha Mason,Actress,2,Neil Simon,10,False,Unknown
+Marlee Matlin,Actress,1,Kevin Grandalski,28,True,Unknown
+Melissa McCarthy,Actress,1,Ben Falcone,16,True,Actor
+Matthew McConaughey,Actor,1,Camila Alves,9,True,Model Designer
+Patty McCormack,Actress,1,Bob Catania,6,False,Unknown
+Mary McDonnell,Actress,1,Randle Mell,37,True,Actress
+Frances McDormand,Actress,1,Joel Coen,37,True,Editors
+Elizabeth McGovern,Musician,1,Simon Curtis,29,True,Unknown
 Janet McTeer,Unknown,1,Joseph Coleman,11,True,Unknown
-Laurie Metcalf,Unknown,1,Jeff Perry,3,False,Unknown
-Laurie Metcalf,Unknown,2,Matt Roth,21,False,Unknown
-Bette Midler,Unknown,1,Martin von Haselberg,37,True,Unknown
-Sarah Miles,Unknown,1,Robert Bolt,9,False,Unknown
-Sarah Miles,Unknown,2,Robert Bolt,7,False,Unknown
-Liza Minnelli,Unknown,1,Peter Allen,7,False,Unknown
-Liza Minnelli,Unknown,2,Jack Haley Jr.,5,False,Unknown
-Liza Minnelli,Unknown,3,Mark Gero,13,False,Unknown
-Liza Minnelli,Unknown,4,David Gest,5,False,Unknown
-Helen Mirren,Unknown,1,Taylor Hackford,24,True,Unknown
-Fernanda Montenegro,Unknown,1,Fernando Torres,55,False,Unknown
-Julianne Moore,Unknown,1,John Gould Rubin,9,False,Unknown
-Julianne Moore,Unknown,2,Bart Freundlich,18,True,Unknown
-Rita Moreno,Unknown,1,Leonard Gordon,45,False,Unknown
-Viggo Mortensen,Unknown,1,Exene Cervenka,11,False,Unknown
-Carey Mulligan,Unknown,1,Marcus Mumford,9,True,Unknown
+Laurie Metcalf,Actress,1,Jeff Perry,3,False,Unknown
+Laurie Metcalf,Actress,2,Matt Roth,21,False,Unknown
+Bette Midler,Musician,1,Martin von Haselberg,37,True,Contemporary Artists
+Sarah Miles,Actress,1,Robert Bolt,9,False,Unknown
+Sarah Miles,Actress,2,Robert Bolt,7,False,Unknown
+Liza Minnelli,Musician,1,Peter Allen,7,False,Unknown
+Liza Minnelli,Musician,2,Jack Haley Jr.,5,False,Unknown
+Liza Minnelli,Musician,3,Mark Gero,13,False,Unknown
+Liza Minnelli,Musician,4,David Gest,5,False,Unknown
+Helen Mirren,Actor,1,Taylor Hackford,24,True,Film Director
+Fernanda Montenegro,Actress,1,Fernando Torres,55,False,Unknown
+Julianne Moore,Actress,1,John Gould Rubin,9,False,Unknown
+Julianne Moore,Actress,2,Bart Freundlich,18,True,Television Director
+Rita Moreno,Actress,1,Leonard Gordon,45,False,Unknown
+Viggo Mortensen,Musician,1,Exene Cervenka,11,False,Musician
+Carey Mulligan,Actress,1,Marcus Mumford,9,True,Musician
 Eddie Murphy,Unknown,1,Nicole Mitchell,13,False,Unknown
-Bill Murray,Unknown,1,Margaret Kelly,15,False,Unknown
-Bill Murray,Unknown,2,Jennifer Butler,11,False,Unknown
-Liam Neeson,Unknown,1,Natasha Richardson,15,False,Unknown
-Kate Nelligan,Unknown,1,Robert Reale,11,False,Unknown
-Jack Nicholson,Unknown,1,Sandra Knight,6,False,Unknown
-Nick Nolte,Unknown,1,Sheila Page,4,False,Unknown
-Nick Nolte,Unknown,2,Sharyn Haddad,5,False,Unknown
-Nick Nolte,Unknown,3,Rebecca Linger,10,False,Unknown
-Nick Nolte,Unknown,4,Clytie Lane,5,True,Unknown
-Edward Norton,Unknown,1,Shauna Robertson,9,True,Unknown
-Ryan O'Neal,Unknown,1,Joanna Moore,4,False,Unknown
-Ryan O'Neal,Unknown,2,Leigh Taylor-Young,4,False,Unknown
-Tatum O'Neal,Unknown,1,John McEnroe,8,False,Unknown
-Leslie Odom Jr.,Unknown,1,Nicolette Robinson,9,True,Unknown
-Gary Oldman,Unknown,1,Lesley Manville,3,False,Unknown
-Gary Oldman,Unknown,2,Uma Thurman,2,False,Unknown
-Gary Oldman,Unknown,3,Donya Fiorentino,4,False,Unknown
-Gary Oldman,Unknown,4,Alexandra Edenborough,7,False,Unknown
-Gary Oldman,Unknown,5,Gisele Schmidt,4,True,Unknown
-Lena Olin,Unknown,1,Lasse Hallström,27,True,Unknown
-Edward James Olmos,Unknown,1,Kaija Keel,21,False,Unknown
-Edward James Olmos,Unknown,2,Lorraine Bracco,8,False,Unknown
-Edward James Olmos,Unknown,3,Lymari Nadal,11,False,Unknown
-Nancy Olson,Unknown,1,Alan Jay Lerner,7,False,Unknown
-Nancy Olson,Unknown,2,Alan W. Livingston,47,False,Unknown
-Clive Owen,Unknown,1,Sarah-Jane Fenton,26,True,Unknown
-Elliot Page,Unknown,1,Emma Portner,3,False,Unknown
-Chazz Palminteri,Unknown,1,Gianna Ranaudo,29,True,Unknown
-Gwyneth Paltrow,Unknown,1,Chris Martin,13,False,Unknown
-Gwyneth Paltrow,Unknown,2,Brad Falchuk,3,True,Unknown
-Anna Paquin,Unknown,1,Stephen Moyer,11,True,Unknown
-Estelle Parsons,Unknown,1,Richard Gehman,5,False,Unknown
-Estelle Parsons,Unknown,2,Peter Zimroth,38,True,Unknown
-Marisa Pavan,Unknown,1,Jean-Pierre Aumont,45,False,Unknown
-David Paymer,Unknown,1,Liz Georges,33,True,Unknown
-Sean Penn,Unknown,1,Madonna,4,False,Unknown
-Sean Penn,Unknown,2,Robin Wright,14,False,Unknown
-Sean Penn,Unknown,3,Leila George,1,True,Unknown
-Rosie Perez,Unknown,1,Seth Zvi Rosenfeld,3,False,Unknown
-Rosie Perez,Unknown,2,Eric Haze,8,True,Unknown
-Joe Pesci,Unknown,1,Claudia Haro,4,False,Unknown
-Michelle Pfeiffer,Unknown,1,Peter Horton,7,False,Unknown
-Michelle Pfeiffer,Unknown,2,David E. Kelley,28,True,Unknown
-Brad Pitt,Unknown,1,Jennifer Aniston,5,False,Unknown
-Brad Pitt,Unknown,2,Angelina Jolie,5,False,Unknown
-Joan Plowright,Unknown,1,Roger Gage,7,False,Unknown
-Joan Plowright,Unknown,2,Laurence Olivier,28,False,Unknown
-Sidney Poitier,Unknown,1,Juanita Hardy,15,False,Unknown
-Sidney Poitier,Unknown,2,Joanna Shimkus,45,True,Unknown
-Natalie Portman,Unknown,1,Benjamin Millepied,9,True,Unknown
-Jonathan Pryce,Unknown,1,Kate Fahy,6,True,Unknown
-Randy Quaid,Unknown,1,Ella Jolly,9,False,Unknown
-Randy Quaid,Unknown,2,Evi Motolanez,32,True,Unknown
-Charlotte Rampling,Unknown,1,Bryan Southcombe,4,False,Unknown
-Charlotte Rampling,Unknown,2,Jean-Michel Jarre,20,False,Unknown
-Stephen Rea,Unknown,1,Dolours Price,20,False,Unknown
-Robert Redford,Unknown,1,Lola Van Wagenen,27,False,Unknown
-Robert Redford,Unknown,2,Sibylle Szaggars,12,True,Unknown
-Vanessa Redgrave,Unknown,1,Tony Richardson,5,False,Unknown
-Vanessa Redgrave,Unknown,2,Franco Nero,15,True,Unknown
-Eddie Redmayne,Unknown,1,Hannah Bagshawe,7,True,Unknown
-John C. Reilly,Unknown,1,Alison Dickey,29,True,Unknown
-Jeremy Renner,Unknown,1,Sonni Pacheco,1,False,Unknown
-Margot Robbie,Unknown,1,Tom Ackerley,5,True,Unknown
-Eric Roberts,Unknown,1,Eliza Roberts,29,True,Unknown
-Julia Roberts,Unknown,1,Lyle Lovett,2,False,Unknown
-Julia Roberts,Unknown,2,Daniel Moder,19,True,Unknown
-Diana Ross,Unknown,1,Robert Ellis Silberstein,6,False,Unknown
-Diana Ross,Unknown,2,Arne Næss Jr.,14,False,Unknown
-Katharine Ross,Unknown,1,Joel Fabiani,2,False,Unknown
-Katharine Ross,Unknown,2,John Marion,3,False,Unknown
-Katharine Ross,Unknown,3,Conrad Hall,5,False,Unknown
-Katharine Ross,Unknown,4,Gaetano Lisi,5,False,Unknown
-Katharine Ross,Unknown,5,Sam Elliott,37,True,Unknown
-Tim Roth,Unknown,1,Nikki Butler,28,True,Unknown
-Mickey Rourke,Unknown,1,Debra Feuer,8,False,Unknown
-Mickey Rourke,Unknown,2,Carré Otis,6,False,Unknown
-Gena Rowlands,Unknown,1,John Cassavetes,35,False,Unknown
-Gena Rowlands,Unknown,2,Robert Forrest,9,True,Unknown
-Mark Ruffalo,Unknown,1,Sunrise Coigney,21,True,Unknown
-Geoffrey Rush,Unknown,1,Jane Menelaus,33,True,Unknown
-Amy Ryan,Unknown,1,Eric Slovin,10,True,Unknown
-Mark Rylance,Unknown,1,Claire van Kampen,32,True,Unknown
-Eva Marie Saint,Unknown,1,Jeffrey Hayden,65,False,Unknown
-Catalina Sandino Moreno,Unknown,1,David Elwell,15,True,Unknown
-Chris Sarandon,Unknown,1,Susan Sarandon,12,False,Unknown
-Chris Sarandon,Unknown,2,Lisa Ann Cooper,9,False,Unknown
-Chris Sarandon,Unknown,3,Joanna Gleason,27,True,Unknown
-Susan Sarandon,Unknown,1,Chris Sarandon,12,False,Unknown
-Diana Scarwid,Unknown,1,Eric Scheinbart,17,False,Unknown
-Kristin Scott Thomas,Unknown,1,François Olivennes,18,False,Unknown
-Amanda Seyfried,Unknown,1,Thomas Sadoski,4,True,Unknown
-Michael Shannon,Unknown,1,Kate Arrington,3,True,Unknown
-Talia Shire,Unknown,1,David Shire,10,False,Unknown
-Talia Shire,Unknown,2,Jack Schwartzman,14,False,Unknown
-Elisabeth Shue,Unknown,1,Davis Guggenheim,27,True,Unknown
-J. K. Simmons,Unknown,1,Michelle Schumacher,25,True,Unknown
-Gary Sinise,Unknown,1,Moira Harris,40,True,Unknown
-Maggie Smith,Unknown,1,Robert Stephens,8,False,Unknown
-Maggie Smith,Unknown,2,Beverley Cross,23,False,Unknown
-Will Smith,Unknown,1,Sheree Zampino,3,False,Unknown
-Will Smith,Unknown,2,Jada Pinkett,24,True,Unknown
-Mira Sorvino,Unknown,1,Christopher Backus,17,True,Unknown
-Sissy Spacek,Unknown,1,Jack Fisk,47,True,Unknown
-June Squibb,Unknown,1,Edward Sostek,6,False,Unknown
-June Squibb,Unknown,2,Charles Kakatsakis,40,False,Unknown
-Sylvester Stallone,Unknown,1,Sasha Czack,11,False,Unknown
-Sylvester Stallone,Unknown,2,Brigitte Nielsen,2,False,Unknown
-Sylvester Stallone,Unknown,3,Jennifer Flavin,24,True,Unknown
-Terence Stamp,Unknown,1,Elizabeth O'Rourke,6,False,Unknown
-Imelda Staunton,Unknown,1,Jim Carter,38,True,Unknown
-Mary Steenburgen,Unknown,1,Malcolm McDowell,10,False,Unknown
-Mary Steenburgen,Unknown,2,Ted Danson,26,True,Unknown
-Dean Stockwell,Unknown,1,Millie Perkins,2,False,Unknown
-Dean Stockwell,Unknown,2,Joy Marchenko,23,False,Unknown
-Emma Stone,Unknown,1,Dave McCary,1,True,Unknown
-Sharon Stone,Unknown,1,Michael Greenburg,6,False,Unknown
-Sharon Stone,Unknown,2,Phil Bronstein,6,False,Unknown
-David Strathairn,Unknown,1,Logan Goodman,41,True,Unknown
-Meryl Streep,Unknown,1,Don Gummer,43,True,Unknown
-Barbra Streisand,Unknown,1,Elliott Gould,8,False,Unknown
-Barbra Streisand,Unknown,2,James Brolin,23,True,Unknown
-Janet Suzman,Unknown,1,Trevor Nunn,17,False,Unknown
-Hilary Swank,Unknown,1,Chad Lowe,10,False,Unknown
-Hilary Swank,Unknown,2,Philip Schneider,3,True,Unknown
-Russ Tamblyn,Unknown,1,Venetia Stevenson,1,False,Unknown
-Russ Tamblyn,Unknown,2,Elizabeth Kempton,19,False,Unknown
-Russ Tamblyn,Unknown,3,Bonnie Murray,40,True,Unknown
-Emma Thompson,Unknown,1,Kenneth Branagh,6,False,Unknown
-Emma Thompson,Unknown,2,Greg Wise,18,True,Unknown
-Billy Bob Thornton,Unknown,1,Melissa Lee Gatlin,2,False,Unknown
-Billy Bob Thornton,Unknown,2,Toni Lawrence,2,False,Unknown
-Billy Bob Thornton,Unknown,3,Cynda Williams,2,False,Unknown
-Billy Bob Thornton,Unknown,4,Pietra Dawn Cherniak,4,False,Unknown
-Billy Bob Thornton,Unknown,5,Angelina Jolie,3,False,Unknown
-Billy Bob Thornton,Unknown,6,Connie Angland,7,True,Unknown
-Uma Thurman,Unknown,1,Gary Oldman,2,False,Unknown
-Uma Thurman,Unknown,2,Ethan Hawke,7,False,Unknown
-Jennifer Tilly,Unknown,1,Sam Simon,7,False,Unknown
-Meg Tilly,Unknown,1,Tim Zinnemann,6,False,Unknown
-Meg Tilly,Unknown,2,John Calley,7,False,Unknown
-Meg Tilly,Unknown,3,Don Calame,19,True,Unknown
-Lily Tomlin,Unknown,1,Jane Wagner,8,True,Unknown
-John Travolta,Unknown,1,Kelly Preston,29,False,Unknown
-Stanley Tucci,Unknown,1,Kathryn Spath-Tucci,14,False,Unknown
-Stanley Tucci,Unknown,2,Felicity Blunt,9,True,Unknown
-Kathleen Turner,Unknown,1,Jay Weiss,23,False,Unknown
-Brenda Vaccaro,Unknown,1,Martin Fried,5,False,Unknown
-Brenda Vaccaro,Unknown,2,William Bishop,1,False,Unknown
-Brenda Vaccaro,Unknown,3,Charles Cannizzaro,1,False,Unknown
-Brenda Vaccaro,Unknown,4,Guy Hector,35,True,Unknown
-Alicia Vikander,Unknown,1,Michael Fassbender,4,True,Unknown
-Jon Voight,Unknown,1,Lauri Peters,5,False,Unknown
-Jon Voight,Unknown,2,Marcheline Bertrand,9,False,Unknown
-Mark Wahlberg,Unknown,1,Rhea Durham,12,True,Unknown
-Christopher Walken,Unknown,1,Georgianne Thon,52,True,Unknown
-Julie Walters,Unknown,1,Grant Roffey,24,True,Unknown
-Lesley Ann Warren,Unknown,1,Jon Peters,8,False,Unknown
-Lesley Ann Warren,Unknown,2,Ron Taft,21,True,Unknown
-Denzel Washington,Unknown,1,Pauletta Pearson,38,True,Unknown
-Ken Watanabe,Unknown,1,Yumiko Watanabe,22,False,Unknown
-Ken Watanabe,Unknown,2,Kaho Minami,13,False,Unknown
-Sam Waterston,Unknown,1,Barbara Rutledge Johns,11,False,Unknown
-Sam Waterston,Unknown,2,Lynn Louisa Woodruff,45,True,Unknown
-Emily Watson,Unknown,1,Jack Waters,26,True,Unknown
-Sigourney Weaver,Unknown,1,Jim Simpson,37,True,Unknown
-Rachel Weisz,Unknown,1,Daniel Craig,10,True,Unknown
-Tuesday Weld,Unknown,1,Claude Harz,6,False,Unknown
-Tuesday Weld,Unknown,2,Dudley Moore,5,False,Unknown
-Tuesday Weld,Unknown,3,Pinchas Zukerman,13,False,Unknown
-Forest Whitaker,Unknown,1,Keisha Nash,25,False,Unknown
-Tom Wilkinson,Unknown,1,Diana Hardcastle,33,True,Unknown
-Cara Williams,Unknown,1,Alan Gray,2,False,Unknown
-Cara Williams,Unknown,2,John Drew Barrymore,7,False,Unknown
-Cara Williams,Unknown,3,Asher Dann,54,False,Unknown
-Debra Winger,Unknown,1,Timothy Hutton,4,False,Unknown
-Debra Winger,Unknown,2,Arliss Howard,25,True,Unknown
-Kate Winslet,Unknown,1,Jim Threapleton,3,False,Unknown
-Kate Winslet,Unknown,2,Sam Mendes,8,False,Unknown
-Kate Winslet,Unknown,3,Edward Abel Smith [a],9,True,Unknown
-Reese Witherspoon,Unknown,1,Ryan Phillippe,8,False,Unknown
-Reese Witherspoon,Unknown,2,Jim Toth,10,True,Unknown
-Alfre Woodard,Unknown,1,Roderick Spencer,38,True,Unknown
-James Woods,Unknown,1,Kathryn Morrison,3,False,Unknown
-James Woods,Unknown,2,Sarah Owen,1,False,Politician
-Joanne Woodward,Unknown,1,Paul Newman,50,False,Unknown
-Burt Young,Unknown,1,Gloria DeLouise,13,False,Unknown
-Youn Yuh-jung,Unknown,1,Jo Young-nam,13,False,Unknown
-Catherine Zeta-Jones,Unknown,1,Michael Douglas,21,True,Unknown
-Willie Nelson,Unknown,1,Martha Matthews,10,False,Unknown
-Willie Nelson,Unknown,2,Shirley Collie,8,False,Unknown
-Willie Nelson,Unknown,3,Connie Koepke,17,False,Unknown
-Willie Nelson,Unknown,4,Annie D'Angelo,30,True,Unknown
-Bob Dylan,Unknown,1,Sara Dylan,12,False,Unknown
-Bob Dylan,Unknown,2,Carolyn Dennis,6,False,Unknown
-Neil Young,Unknown,1,Susan Acevedo,2,False,Unknown
-Neil Young,Unknown,2,Pegi Young,36,False,Unknown
-Neil Young,Unknown,3,Daryl Hannah,3,True,Unknown
-Tina Turner,Unknown,1,Ike Turner,16,False,Unknown
-Tina Turner,Unknown,2,Erwin Bach,8,True,Unknown
-Stevie Wonder,Unknown,1,Syreeta Wright,2,False,Unknown
-Stevie Wonder,Unknown,2,Kai Millard,11,False,Unknown
-Stevie Wonder,Unknown,3,Tomeeka Bracy,4,True,Unknown
-Alice Cooper,Unknown,1,Sheryl Goddard,45,True,Unknown
-Elton John,Unknown,1,Renate Blauel,4,False,Unknown
-Elton John,Unknown,2,David Furnish,9,False,Unknown
-Bruce Springsteen,Unknown,1,Julianne Phillips,4,False,Unknown
-Bruce Springsteen,Unknown,2,Patti Scialfa,30,True,Unknown
-Madonna,Unknown,1,Sean Penn,4,False,Unknown
-Madonna,Unknown,2,Guy Ritchie,8,False,Unknown
-Jay-Z,Unknown,1,Beyoncé,13,True,Unknown
-Eminem,Unknown,1,Kimberly Anne Scott,2,False,Unknown
-Eminem,Unknown,2,Kimberly Anne Scott,0,False,Unknown
-Justin Timberlake,Unknown,1,Jessica Biel,9,True,Unknown
-Justin Bieber,Unknown,1,Hailey Baldwin,3,True,Unknown
-Katy Perry,Unknown,1,Russell Brand,2,False,Unknown
-Justin Timberlake,Unknown,1,Jessica Biel,9,True,Unknown
-Jennifer Lopez,Unknown,1,Ojani Noa,1,False,Unknown
-Jennifer Lopez,Unknown,2,Cris Judd,2,False,Unknown
-Jennifer Lopez,Unknown,3,Marc Anthony,10,False,Unknown
-Nicki Minaj,Unknown,1,Kenneth Petty,2,True,Unknown
-P!nk,Unknown,1,Carey Hart,15,True,Unknown
-Marshall Mathers,Unknown,1,Kimberly Anne Scott,2,False,Unknown
-Marshall Mathers,Unknown,2,Kimberly Anne Scott,0,False,Unknown
-Adele,Unknown,1,Simon Konecki,5,False,Unknown
-Alicia Keys,Unknown,1,Swizz Beatz,11,True,Unknown
-Miley Ray Cyrus,Unknown,1,Liam Hemsworth,2,False,Unknown
-Snoop Dogg,Unknown,1,Shante Taylor,7,False,Unknown
-Snoop Dogg,Unknown,2,Shante Taylor,13,True,Unknown
-Mariah Carey,Unknown,1,Tommy Mottola,5,False,Unknown
-Mariah Carey,Unknown,2,Nick Cannon,8,False,Unknown
-Wiz Khalifa,Unknown,1,Amber Rose,3,False,Unknown
-Avril Lavigne,Unknown,1,Deryck Whibley,4,False,Unknown
-Avril Lavigne,Unknown,2,Chad Kroeger,2,False,Unknown
-Ashley Tisdale,Unknown,1,Christopher French,7,True,Unknown
-Ricky Martin,Unknown,1,Jwan Yosef,4,True,Unknown
-David Guetta,Unknown,1,Cathy Guetta,22,False,Unknown
-Ivete Sangalo,Unknown,1,Davi Moraes,2,False,Unknown
-Ivete Sangalo,Unknown,2,Daniel Cady,10,True,Unknown
-Beyoncé Knowles,Unknown,1,Jay-Z,13,True,Unknown
-Ludacris,Unknown,1,Eudoxie Mbouguiengue,7,True,Unknown
-Paulina Rubio,Unknown,1,Nicolás Vallejo-Nágera,6,False,Unknown
-Jessica Simpson,Unknown,1,Nick Lachey,4,False,Unknown
-Jessica Simpson,Unknown,2,Eric Johnson,7,True,Unknown
-Ed Sheeran,Unknown,1,Cherry Seaborn,2,True,Unknown
-Nick Jonas,Unknown,1,Priyanka Chopra,3,True,Unknown
-joe jonas,Unknown,1,Sophie Turner,2,True,Unknown
-Jason Mraz,Unknown,1,Sheridan Edley,1,False,Unknown
-Jason Mraz,Unknown,2,Christina Carano,6,True,Unknown
-Kelly Rowland,Unknown,1,Tim Weatherspoon,7,True,Unknown
-Luis Fonsi,Unknown,1,Adamari López,4,False,Unknown
-Luis Fonsi,Unknown,2,Águeda López,7,True,Unknown
-Daddy Yankee,Unknown,1,Mireddys González,26,True,Unknown
-Christina Aguilera,Unknown,1,Jordan Bratman,6,False,Unknown
-Lenny Kravitz,Unknown,1,Lisa Bonet,6,False,Unknown
-John Legend,Unknown,1,Chrissy Teigen,8,True,Unknown
-Lily Allen,Unknown,1,Sam Cooper,7,False,Unknown
-Lily Allen,Unknown,2,David Harbour,1,True,Unknown
-Adam Levine,Unknown,1,Behati Prinsloo,7,True,Unknown
-Sandy Leah,Unknown,1,Lucas Scholles Lima,13,True,Unknown
-Mary J. Blige,Unknown,1,"Martin ""Kendu"" Isaacs",15,False,Unknown
-T.I.,Unknown,1,Tameka Cottle,11,True,Unknown
-Ne-Yo,Unknown,1,Crystal Renay Williams,5,True,Unknown
-J. Cole,Unknown,1,Melissa Heholt,6,True,Unknown
-Juan Luis Guerra,Unknown,1,Nora Clementina Altagracia Vega Rasuk,41,True,Unknown
-Ciara,Unknown,1,Russell Wilson,5,True,Unknown
+Bill Murray,Actor,1,Margaret Kelly,15,False,Unknown
+Bill Murray,Actor,2,Jennifer Butler,11,False,Unknown
+Liam Neeson,Actor,1,Natasha Richardson,15,False,Unknown
+Kate Nelligan,Actress,1,Robert Reale,11,False,Unknown
+Jack Nicholson,Actor,1,Sandra Knight,6,False,Actress
+Nick Nolte,Actor,1,Sheila Page,4,False,Unknown
+Nick Nolte,Actor,2,Sharyn Haddad,5,False,Unknown
+Nick Nolte,Actor,3,Rebecca Linger,10,False,Unknown
+Nick Nolte,Actor,4,Clytie Lane,5,True,Unknown
+Edward Norton,Actor,1,Shauna Robertson,9,True,Film Producer
+Ryan O'Neal,Actor,1,Joanna Moore,4,False,Unknown
+Ryan O'Neal,Actor,2,Leigh Taylor-Young,4,False,Actress
+Tatum O'Neal,Actress,1,John McEnroe,8,False,Unknown
+Leslie Odom Jr.,Musician,1,Nicolette Robinson,9,True,Actress
+Gary Oldman,Actor,1,Lesley Manville,3,False,Actress
+Gary Oldman,Actor,2,Uma Thurman,2,False,Actress
+Gary Oldman,Actor,3,Donya Fiorentino,4,False,Unknown
+Gary Oldman,Actor,4,Alexandra Edenborough,7,False,Unknown
+Gary Oldman,Actor,5,Gisele Schmidt,4,True,Unknown
+Lena Olin,Actress,1,Lasse Hallström,27,True,Screenwriter.
+Edward James Olmos,Actor,1,Kaija Keel,21,False,Unknown
+Edward James Olmos,Actor,2,Lorraine Bracco,8,False,Actress
+Edward James Olmos,Actor,3,Lymari Nadal,11,False,Actress
+Nancy Olson,Actress,1,Alan Jay Lerner,7,False,Unknown
+Nancy Olson,Actress,2,Alan W. Livingston,47,False,Unknown
+Clive Owen,Actor,1,Sarah-Jane Fenton,26,True,Unknown
+Elliot Page,Actor,1,Emma Portner,3,False,Dancer
+Chazz Palminteri,Actor,1,Gianna Ranaudo,29,True,Unknown
+Gwyneth Paltrow,Musician,1,Chris Martin,13,False,Musician
+Gwyneth Paltrow,Musician,2,Brad Falchuk,3,True,Screenwriter Director Producer
+Anna Paquin,Actress,1,Stephen Moyer,11,True,Actor
+Estelle Parsons,Actress,1,Richard Gehman,5,False,Unknown
+Estelle Parsons,Actress,2,Peter Zimroth,38,True,Unknown
+Marisa Pavan,Actress,1,Jean-Pierre Aumont,45,False,Unknown
+David Paymer,Actor,1,Liz Georges,33,True,Unknown
+Sean Penn,Actor,1,Madonna,4,False,Musician
+Sean Penn,Actor,2,Robin Wright,14,False,Actress
+Sean Penn,Actor,3,Leila George,1,True,Actress
+Rosie Perez,Actress,1,Seth Zvi Rosenfeld,3,False,Director
+Rosie Perez,Actress,2,Eric Haze,8,True,Unknown
+Joe Pesci,Actor,1,Claudia Haro,4,False,Unknown
+Michelle Pfeiffer,Actress,1,Peter Horton,7,False,Actor
+Michelle Pfeiffer,Actress,2,David E. Kelley,28,True,Attorney
+Brad Pitt,Actor,1,Jennifer Aniston,5,False,Actress
+Brad Pitt,Actor,2,Angelina Jolie,5,False,Actress
+Joan Plowright,Actress,1,Roger Gage,7,False,Unknown
+Joan Plowright,Actress,2,Laurence Olivier,28,False,Unknown
+Sidney Poitier,Actor,1,Juanita Hardy,15,False,Unknown
+Sidney Poitier,Actor,2,Joanna Shimkus,45,True,Actress
+Natalie Portman,Actress,1,Benjamin Millepied,9,True,Choreographer Ballet Dancer
+Jonathan Pryce,Actor,1,Kate Fahy,6,True,Actress
+Randy Quaid,Actor,1,Ella Jolly,9,False,Unknown
+Randy Quaid,Actor,2,Evi Motolanez,32,True,Unknown
+Charlotte Rampling,Actress,1,Bryan Southcombe,4,False,Unknown
+Charlotte Rampling,Actress,2,Jean-Michel Jarre,20,False,Composer Performer Record Producer
+Stephen Rea,Actor,1,Dolours Price,20,False,Unknown
+Robert Redford,Actor,1,Lola Van Wagenen,27,False,Historian
+Robert Redford,Actor,2,Sibylle Szaggars,12,True,Unknown
+Vanessa Redgrave,Actress,1,Tony Richardson,5,False,Unknown
+Vanessa Redgrave,Actress,2,Franco Nero,15,True,Actor
+Eddie Redmayne,Actor,1,Hannah Bagshawe,7,True,Unknown
+John C. Reilly,Musician,1,Alison Dickey,29,True,Unknown
+Jeremy Renner,Musician,1,Sonni Pacheco,1,False,Unknown
+Margot Robbie,Actress,1,Tom Ackerley,5,True,Film Producer Assistant Director
+Eric Roberts,Actor,1,Eliza Roberts,29,True,Unknown
+Julia Roberts,Actress,1,Lyle Lovett,2,False,Musician
+Julia Roberts,Actress,2,Daniel Moder,19,True,Cinematographer
+Diana Ross,Musician,1,Robert Ellis Silberstein,6,False,Unknown
+Diana Ross,Musician,2,Arne Næss Jr.,14,False,Unknown
+Katharine Ross,Actress,1,Joel Fabiani,2,False,Actor
+Katharine Ross,Actress,2,John Marion,3,False,Unknown
+Katharine Ross,Actress,3,Conrad Hall,5,False,Unknown
+Katharine Ross,Actress,4,Gaetano Lisi,5,False,Unknown
+Katharine Ross,Actress,5,Sam Elliott,37,True,Actor
+Tim Roth,Actor,1,Nikki Butler,28,True,Unknown
+Mickey Rourke,Actor,1,Debra Feuer,8,False,Unknown
+Mickey Rourke,Actor,2,Carré Otis,6,False,Actress
+Gena Rowlands,Actress,1,John Cassavetes,35,False,Unknown
+Gena Rowlands,Actress,2,Robert Forrest,9,True,Unknown
+Mark Ruffalo,Actor,1,Sunrise Coigney,21,True,Actor
+Geoffrey Rush,Actor,1,Jane Menelaus,33,True,Actress
+Amy Ryan,Actress,1,Eric Slovin,10,True,Unknown
+Mark Rylance,Actor,1,Claire van Kampen,32,True,Director Composer Playwright
+Eva Marie Saint,Actress,1,Jeffrey Hayden,65,False,Unknown
+Catalina Sandino Moreno,Actress,1,David Elwell,15,True,Unknown
+Chris Sarandon,Actor,1,Susan Sarandon,12,False,Actress
+Chris Sarandon,Actor,2,Lisa Ann Cooper,9,False,Unknown
+Chris Sarandon,Actor,3,Joanna Gleason,27,True,Actress
+Susan Sarandon,Actress,1,Chris Sarandon,12,False,Actor
+Diana Scarwid,Actress,1,Eric Scheinbart,17,False,Unknown
+Kristin Scott Thomas,Actress,1,François Olivennes,18,False,Physician
+Amanda Seyfried,Musician,1,Thomas Sadoski,4,True,Actor
+Michael Shannon,Musician,1,Kate Arrington,3,True,Unknown
+Talia Shire,Actress,1,David Shire,10,False,Composer
+Talia Shire,Actress,2,Jack Schwartzman,14,False,Unknown
+Elisabeth Shue,Actress,1,Davis Guggenheim,27,True,Director Writer Producer
+J. K. Simmons,Actor,1,Michelle Schumacher,25,True,Unknown
+Gary Sinise,Actor,1,Moira Harris,40,True,Actress
+Maggie Smith,Actress,1,Robert Stephens,8,False,Unknown
+Maggie Smith,Actress,2,Beverley Cross,23,False,Unknown
+Will Smith,Musician,1,Sheree Zampino,3,False,Musician
+Will Smith,Musician,2,Jada Pinkett,24,True,Musician
+Mira Sorvino,Actress,1,Christopher Backus,17,True,Actor
+Sissy Spacek,Musician,1,Jack Fisk,47,True,Film Director
+June Squibb,Actress,1,Edward Sostek,6,False,Unknown
+June Squibb,Actress,2,Charles Kakatsakis,40,False,Unknown
+Sylvester Stallone,Actor,1,Sasha Czack,11,False,Unknown
+Sylvester Stallone,Actor,2,Brigitte Nielsen,2,False,Actress
+Sylvester Stallone,Actor,3,Jennifer Flavin,24,True,Business Owner
+Terence Stamp,Actor,1,Elizabeth O'Rourke,6,False,Unknown
+Imelda Staunton,Musician,1,Jim Carter,38,True,Unknown
+Mary Steenburgen,Musician,1,Malcolm McDowell,10,False,Actor
+Mary Steenburgen,Musician,2,Ted Danson,26,True,Actor
+Dean Stockwell,Actor,1,Millie Perkins,2,False,Actress
+Dean Stockwell,Actor,2,Joy Marchenko,23,False,Unknown
+Emma Stone,Actress,1,Dave McCary,1,True,Director
+Sharon Stone,Actor,1,Michael Greenburg,6,False,Unknown
+Sharon Stone,Actor,2,Phil Bronstein,6,False,Center For Investigative Reporting
+David Strathairn,Actor,1,Logan Goodman,41,True,Unknown
+Meryl Streep,Actress,1,Don Gummer,43,True,Unknown
+Barbra Streisand,Musician,1,Elliott Gould,8,False,Actor
+Barbra Streisand,Musician,2,James Brolin,23,True,Actor
+Janet Suzman,Actress,1,Trevor Nunn,17,False,Theatre Director
+Hilary Swank,Actress,1,Chad Lowe,10,False,Actor
+Hilary Swank,Actress,2,Philip Schneider,3,True,Unknown
+Russ Tamblyn,Actor,1,Venetia Stevenson,1,False,Unknown
+Russ Tamblyn,Actor,2,Elizabeth Kempton,19,False,Unknown
+Russ Tamblyn,Actor,3,Bonnie Murray,40,True,Unknown
+Emma Thompson,Actress,1,Kenneth Branagh,6,False,Actor
+Emma Thompson,Actress,2,Greg Wise,18,True,Actor
+Billy Bob Thornton,Musician,1,Melissa Lee Gatlin,2,False,Unknown
+Billy Bob Thornton,Musician,2,Toni Lawrence,2,False,Unknown
+Billy Bob Thornton,Musician,3,Cynda Williams,2,False,Musician
+Billy Bob Thornton,Musician,4,Pietra Dawn Cherniak,4,False,Unknown
+Billy Bob Thornton,Musician,5,Angelina Jolie,3,False,Actress
+Billy Bob Thornton,Musician,6,Connie Angland,7,True,Unknown
+Uma Thurman,Actress,1,Gary Oldman,2,False,Actor
+Uma Thurman,Actress,2,Ethan Hawke,7,False,Actor
+Jennifer Tilly,Actress,1,Sam Simon,7,False,Unknown
+Meg Tilly,Actress,1,Tim Zinnemann,6,False,Photographer
+Meg Tilly,Actress,2,John Calley,7,False,Unknown
+Meg Tilly,Actress,3,Don Calame,19,True,Unknown
+Lily Tomlin,Unknown,1,Jane Wagner,8,True,Producer
+John Travolta,Musician,1,Kelly Preston,29,False,Unknown
+Stanley Tucci,Actor,1,Kathryn Spath-Tucci,14,False,Unknown
+Stanley Tucci,Actor,2,Felicity Blunt,9,True,Unknown
+Kathleen Turner,Actress,1,Jay Weiss,23,False,Unknown
+Brenda Vaccaro,Actress,1,Martin Fried,5,False,Unknown
+Brenda Vaccaro,Actress,2,William Bishop,1,False,Unknown
+Brenda Vaccaro,Actress,3,Charles Cannizzaro,1,False,Unknown
+Brenda Vaccaro,Actress,4,Guy Hector,35,True,Unknown
+Alicia Vikander,Actress,1,Michael Fassbender,4,True,Actor
+Jon Voight,Actor,1,Lauri Peters,5,False,Musician
+Jon Voight,Actor,2,Marcheline Bertrand,9,False,Unknown
+Mark Wahlberg,Actor,1,Rhea Durham,12,True,Model
+Christopher Walken,Actor,1,Georgianne Thon,52,True,Casting Director
+Julie Walters,Actress,1,Grant Roffey,24,True,Unknown
+Lesley Ann Warren,Musician,1,Jon Peters,8,False,Film Producer
+Lesley Ann Warren,Musician,2,Ron Taft,21,True,Unknown
+Denzel Washington,Actor,1,Pauletta Pearson,38,True,Unknown
+Ken Watanabe,Actor,1,Yumiko Watanabe,22,False,Unknown
+Ken Watanabe,Actor,2,Kaho Minami,13,False,Actress
+Sam Waterston,Actor,1,Barbara Rutledge Johns,11,False,Unknown
+Sam Waterston,Actor,2,Lynn Louisa Woodruff,45,True,Unknown
+Emily Watson,Actress,1,Jack Waters,26,True,Unknown
+Sigourney Weaver,Actress,1,Jim Simpson,37,True,Unknown
+Rachel Weisz,Actress,1,Daniel Craig,10,True,Actor
+Tuesday Weld,Actress,1,Claude Harz,6,False,Unknown
+Tuesday Weld,Actress,2,Dudley Moore,5,False,Unknown
+Tuesday Weld,Actress,3,Pinchas Zukerman,13,False,Violist
+Forest Whitaker,Actor,1,Keisha Nash,25,False,Unknown
+Tom Wilkinson,Actor,1,Diana Hardcastle,33,True,Actress
+Cara Williams,Actress,1,Alan Gray,2,False,Unknown
+Cara Williams,Actress,2,John Drew Barrymore,7,False,Unknown
+Cara Williams,Actress,3,Asher Dann,54,False,Unknown
+Debra Winger,Actress,1,Timothy Hutton,4,False,Actor
+Debra Winger,Actress,2,Arliss Howard,25,True,Actor
+Kate Winslet,Actress,1,Jim Threapleton,3,False,Director
+Kate Winslet,Actress,2,Sam Mendes,8,False,Director Producer Screenwriter
+Kate Winslet,Actress,3,Edward Abel Smith [a],9,True,Unknown
+Reese Witherspoon,Actress,1,Ryan Phillippe,8,False,Actor
+Reese Witherspoon,Actress,2,Jim Toth,10,True,Unknown
+Alfre Woodard,Actress,1,Roderick Spencer,38,True,Unknown
+James Woods,Actor,1,Kathryn Morrison,3,False,Unknown
+James Woods,Actor,2,Sarah Owen,1,False,Politician
+Joanne Woodward,Actress,1,Paul Newman,50,False,Unknown
+Burt Young,Actor,1,Gloria DeLouise,13,False,Unknown
+Youn Yuh-jung,Actress,1,Jo Young-nam,13,False,Musician
+Catherine Zeta-Jones,Actress,1,Michael Douglas,21,True,Actor
+Willie Nelson,Musician,1,Martha Matthews,10,False,Unknown
+Willie Nelson,Musician,2,Shirley Collie,8,False,Unknown
+Willie Nelson,Musician,3,Connie Koepke,17,False,Unknown
+Willie Nelson,Musician,4,Annie D'Angelo,30,True,Unknown
+Bob Dylan,Musician,1,Sara Dylan,12,False,Actress
+Bob Dylan,Musician,2,Carolyn Dennis,6,False,Musician
+Neil Young,Musician,1,Susan Acevedo,2,False,Unknown
+Neil Young,Musician,2,Pegi Young,36,False,Unknown
+Neil Young,Musician,3,Daryl Hannah,3,True,Actress
+Tina Turner,Musician,1,Ike Turner,16,False,Unknown
+Tina Turner,Musician,2,Erwin Bach,8,True,Unknown
+Stevie Wonder,Musician,1,Syreeta Wright,2,False,Unknown
+Stevie Wonder,Musician,2,Kai Millard,11,False,Unknown
+Stevie Wonder,Musician,3,Tomeeka Bracy,4,True,Unknown
+Alice Cooper,Musician,1,Sheryl Goddard,45,True,Unknown
+Elton John,Musician,1,Renate Blauel,4,False,Musician
+Elton John,Musician,2,David Furnish,9,False,Director
+Bruce Springsteen,Musician,1,Julianne Phillips,4,False,Actress
+Bruce Springsteen,Musician,2,Patti Scialfa,30,True,Musician
+Madonna,Musician,1,Sean Penn,4,False,Actor
+Madonna,Musician,2,Guy Ritchie,8,False,Director Producer Screenwriter Businessman
+Jay-Z,Musician,1,Beyoncé,13,True,Musician
+Eminem,Musician,1,Kimberly Anne Scott,2,False,Musician
+Eminem,Musician,2,Kimberly Anne Scott,0,False,Musician
+Justin Timberlake,Musician,1,Jessica Biel,9,True,Musician
+Justin Bieber,Musician,1,Hailey Baldwin,3,True,Model Media Personality Socialite
+Katy Perry,Musician,1,Russell Brand,2,False,Unknown
+Justin Timberlake,Musician,1,Jessica Biel,9,True,Musician
+Jennifer Lopez,Musician,1,Ojani Noa,1,False,Musician
+Jennifer Lopez,Musician,2,Cris Judd,2,False,Actor
+Jennifer Lopez,Musician,3,Marc Anthony,10,False,Musician
+Nicki Minaj,Musician,1,Kenneth Petty,2,True,Unknown
+P!nk,Musician,1,Carey Hart,15,True,Businessman
+Marshall Mathers,Musician,1,Kimberly Anne Scott,2,False,Musician
+Marshall Mathers,Musician,2,Kimberly Anne Scott,0,False,Musician
+Adele,Musician,1,Simon Konecki,5,False,Musician
+Alicia Keys,Musician,1,Swizz Beatz,11,True,Musician
+Miley Ray Cyrus,Musician,1,Liam Hemsworth,2,False,Actor
+Snoop Dogg,Musician,1,Shante Taylor,7,False,Unknown
+Snoop Dogg,Musician,2,Shante Taylor,13,True,Unknown
+Mariah Carey,Musician,1,Tommy Mottola,5,False,Unknown
+Mariah Carey,Musician,2,Nick Cannon,8,False,Musician
+Wiz Khalifa,Musician,1,Amber Rose,3,False,Model Television Presenter
+Avril Lavigne,Musician,1,Deryck Whibley,4,False,Musician
+Avril Lavigne,Musician,2,Chad Kroeger,2,False,Musician
+Ashley Tisdale,Musician,1,Christopher French,7,True,Unknown
+Ricky Martin,Musician,1,Jwan Yosef,4,True,Painter Artist
+David Guetta,Disc Jockey Record Producer Music Programmer Songwriter,1,Cathy Guetta,22,False,Actress
+Ivete Sangalo,Musician,1,Davi Moraes,2,False,Unknown
+Ivete Sangalo,Musician,2,Daniel Cady,10,True,Unknown
+Beyoncé Knowles,Musician,1,Jay-Z,13,True,Musician
+Ludacris,Musician,1,Eudoxie Mbouguiengue,7,True,Musician
+Paulina Rubio,Musician,1,Nicolás Vallejo-Nágera,6,False,Unknown
+Jessica Simpson,Musician,1,Nick Lachey,4,False,Actor
+Jessica Simpson,Musician,2,Eric Johnson,7,True,Unknown
+Ed Sheeran,Musician,1,Cherry Seaborn,2,True,Unknown
+Nick Jonas,Musician,1,Priyanka Chopra,3,True,Musician
+joe jonas,Musician,1,Sophie Turner,2,True,Actress
+Jason Mraz,Musician,1,Sheridan Edley,1,False,Unknown
+Jason Mraz,Musician,2,Christina Carano,6,True,Unknown
+Kelly Rowland,Musician,1,Tim Weatherspoon,7,True,Unknown
+Luis Fonsi,Musician,1,Adamari López,4,False,Actress
+Luis Fonsi,Musician,2,Águeda López,7,True,Unknown
+Daddy Yankee,Musician,1,Mireddys González,26,True,Unknown
+Christina Aguilera,Musician,1,Jordan Bratman,6,False,Musician
+Lenny Kravitz,Musician,1,Lisa Bonet,6,False,Actress
+John Legend,Musician,1,Chrissy Teigen,8,True,Model Television Personality
+Lily Allen,Musician,1,Sam Cooper,7,False,Fbi Special Agent
+Lily Allen,Musician,2,David Harbour,1,True,Actor
+Adam Levine,Musician,1,Behati Prinsloo,7,True,Model
+Sandy Leah,Musician,1,Lucas Scholles Lima,13,True,Unknown
+Mary J. Blige,Musician,1,"Martin ""Kendu"" Isaacs",15,False,Unknown
+T.I.,Musician,1,Tameka Cottle,11,True,Musician
+Ne-Yo,Musician,1,Crystal Renay Williams,5,True,Unknown
+J. Cole,Musician,1,Melissa Heholt,6,True,Unknown
+Juan Luis Guerra,Musician,1,Nora Clementina Altagracia Vega Rasuk,41,True,Unknown
+Ciara,Musician,1,Russell Wilson,5,True,Unknown

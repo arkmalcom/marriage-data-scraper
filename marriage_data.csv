@@ -9,7 +9,7 @@ Tom Cotton,Politician,1,Anna Peckham,7,True,Unknown
 Dianne Feinstein,Politician,1,Jack Berman,3,False,Unknown
 Dianne Feinstein,Politician,2,Bertram Feinstein,16,False,Unknown
 Dianne Feinstein,Politician,3,Richard C. Blum,41,True,Unknown
-Alex Padilla,Politician Engineer,1,Angela Monzon,9,True,Unknown
+Alex Padilla,Politician,1,Angela Monzon,9,True,Unknown
 Michael Bennet,Politician,1,Susan Daggett,24,True,Unknown
 John Hickenlooper,Politician,1,Helen Thorpe,13,False,First Lady Of Colorado
 John Hickenlooper,Politician,2,Robin Pringle,5,True,Politician
@@ -25,25 +25,25 @@ Mazie Hirono,Politician,1,Leighton Kim Oshima,34,True,Unknown
 Mike Crapo,Politician,1,Susan Hasleton,47,True,Unknown
 Jim Risch,Politician,1,Vicki Risch,53,True,Politician
 Tammy Duckworth,Politician,1,Bryan Bowlsbey,28,True,Politician
-Dick Durbin,Politician Lawyer,1,Loretta Schaefer,54,True,Unknown
+Dick Durbin,Politician,1,Loretta Schaefer,54,True,Unknown
 Mike Braun,Politician,1,Maureen Braun,45,True,Unknown
 Todd Young,Politician,1,Jennifer Tucker,16,True,Unknown
 Joni Ernst,Politician,1,Gail Ernst,27,False,Unknown
 Chuck Grassley,Politician,1,Barbara Speicher,67,True,Unknown
 Jerry Moran,Politician,1,Robba Addison,37,True,Unknown
 Mitch McConnell,Politician,1,Sherrill Redmon,12,False,Unknown
-Mitch McConnell,Politician,2,Elaine Chao,28,True,Businesswoman Politician
+Mitch McConnell,Politician,2,Elaine Chao,28,True,Politician
 Rand Paul,Politician,1,Kelley Ashby,31,True,Unknown
 Bill Cassidy,Politician,1,Laura Layden,32,True,Unknown
 Susan Collins,Politician,1,Thomas Daffron,9,True,Unknown
 Ben Cardin,Politician,1,Myrna Edelman,57,True,Unknown
 Chris Van Hollen,Politician,1,Katherine Wilkens,34,True,Unknown
 Edward Markey,Politician,1,Susan Blumenthal,33,True,Politician
-Elizabeth Warren,Politician Law Professor Author,1,Jim Warren,10,False,Unknown
-Elizabeth Warren,Politician Law Professor Author,2,Bruce H. Mann,41,True,Unknown
+Elizabeth Warren,Politician,1,Jim Warren,10,False,Unknown
+Elizabeth Warren,Politician,2,Bruce H. Mann,41,True,Unknown
 Debbie Stabenow,Politician,1,Dennis Stabenow,18,False,Unknown
 Debbie Stabenow,Politician,2,Tom Athans,7,False,Unknown
-Amy Klobuchar,Lawyer Politician,1,John Bessler,28,True,Associate Professor Of Law At University Of Baltimore School Of Law
+Amy Klobuchar,Politician,1,John Bessler,28,True,Associate Professor Of Law At University Of Baltimore School Of Law
 Tina Smith,Politician,1,Archie Smith,37,True,Unknown
 Cindy Hyde-Smith,Politician,1,Michael Smith,25,True,Unknown
 Roger Wicker,Politician,1,Gayle Long,46,True,Unknown
@@ -62,8 +62,8 @@ Kirsten Gillibrand,Politician,1,Jonathan Gillibrand,20,True,Unknown
 Chuck Schumer,Politician,1,Iris Weinshall,41,True,Chief Operating Officer At The New York Public Library
 Richard Burr,Politician,1,Brooke Fauth,37,True,Unknown
 Kevin Cramer,Politician,1,Kris Cramer,35,True,Unknown
-Sherrod Brown,Politician Teacher,1,Larke Ummel,8,False,Unknown
-Sherrod Brown,Politician Teacher,2,Connie Schultz,17,True,Unknown
+Sherrod Brown,Politician,1,Larke Ummel,8,False,Unknown
+Sherrod Brown,Politician,2,Connie Schultz,17,True,Unknown
 Rob Portman,Politician,1,Jane Dudley,35,True,Unknown
 Jim Inhofe,Politician,1,Kay Kirkpatrick,62,True,Politician
 James Lankford,Politician,1,Cindy Hennessey,29,True,Unknown
@@ -77,11 +77,11 @@ John Thune,Politician,1,Kimberley Weems,37,True,Unknown
 Marsha Blackburn,Politician,1,Chuck Blackburn,46,True,Unknown
 Bill Hagerty,Politician,1,Chrissy Hagerty,20,True,Unknown
 John Cornyn,Politician,1,Sandy Hansen,42,True,Unknown
-Ted Cruz,Politician Broadcaster Lawyer,1,Heidi Nelson,20,True,Unknown
-Mitt Romney,Politician Businessman,1,Ann Davies,52,True,Unknown
+Ted Cruz,Politician,1,Heidi Nelson,20,True,Unknown
+Mitt Romney,Politician,1,Ann Davies,52,True,Unknown
 Patrick Leahy,Politician,1,Marcelle Pomerleau,59,True,Unknown
-Bernie Sanders,Politician Activist Author,1,Deborah Shiling,2,False,Unknown
-Bernie Sanders,Politician Activist Author,2,Jane O'Meara,33,True,Politician
+Bernie Sanders,Politician,1,Deborah Shiling,2,False,Unknown
+Bernie Sanders,Politician,2,Jane O'Meara,33,True,Politician
 Tim Kaine,Politician,1,Anne Holton,37,True,Politician
 Mark Warner,Politician,1,Lisa Collis,32,True,Politician
 Patty Murray,Teacher,1,Rob Murray,49,True,Unknown
@@ -135,7 +135,7 @@ Mike Levin,Politician,1,Chrissy Parker Levin,10,True,Unknown
 Darrell Issa,Politician,1,Kathy Stanton,41,True,Politician
 Juan Vargas,Politician,1,Adrienne D'Ascoli,31,True,Unknown
 Diana DeGette,Politician,1,Lino Lipinsky,36,True,Unknown
-Lauren Boebert,Politician Restaurateur Activist,1,Jayson Boebert,16,True,Unknown
+Lauren Boebert,Politician,1,Jayson Boebert,16,True,Unknown
 Ken Buck,Politician,1,Dayna Roane,10,False,Unknown
 Ken Buck,Politician,2,Perry Buck,22,False,Politician
 Doug Lamborn,Politician,1,Jeanie Lamborn,44,True,Unknown
@@ -150,7 +150,7 @@ Neal Dunn,Politician,1,Leah Dunn,34,True,Unknown
 Kat Cammack,Politician,1,Matthew Harrison,4,True,Unknown
 Bill Posey,Politician,1,Katie Ingram,54,True,Unknown
 Darren Soto,Politician,1,Amanda Soto,8,True,Unknown
-Val Demings,Politician Former Police Officer,1,Jerry Demings,33,True,Politician
+Val Demings,Politician,1,Jerry Demings,33,True,Politician
 Gus Bilirakis,Politician,1,Eva Lialios,30,True,Unknown
 Charlie Crist,Politician,1,Amanda Morrow,1,False,Unknown
 Charlie Crist,Politician,2,Carole Oumano,9,False,Unknown
@@ -908,7 +908,7 @@ Avril Lavigne,Musician,1,Deryck Whibley,4,False,Musician
 Avril Lavigne,Musician,2,Chad Kroeger,2,False,Musician
 Ashley Tisdale,Musician,1,Christopher French,7,True,Unknown
 Ricky Martin,Musician,1,Jwan Yosef,4,True,Painter Artist
-David Guetta,Disc Jockey Record Producer Music Programmer Songwriter,1,Cathy Guetta,22,False,Actress
+David Guetta,Musician,1,Cathy Guetta,22,False,Actress
 Ivete Sangalo,Musician,1,Davi Moraes,2,False,Unknown
 Ivete Sangalo,Musician,2,Daniel Cady,10,True,Unknown
 Beyoncé Knowles,Musician,1,Jay-Z,13,True,Musician
